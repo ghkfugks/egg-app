@@ -1,0 +1,1001 @@
+,GallusID,GallusBreed,Day,Age,GallusWeight,GallusEggColor,GallusEggWeight,AmountOfFeed,EggsPerDay,SunLightExposure,GallusClass,GallusPlumage
+0,Marans1,Marans,1,883,3000,Brown,41.19,114,1,7,Continental,Blue Copper
+1,Marans1,Marans,2,883,3000,Brown,41.19,114,1,7,Continental,Blue Copper
+2,Marans1,Marans,3,883,3000,Brown,41.19,114,1,7,Continental,Blue Copper
+3,Marans1,Marans,4,883,3000,Brown,41.19,114,1,7,Continental,Blue Copper
+4,Marans1,Marans,5,883,3000,Brown,41.19,114,1,7,Continental,Blue Copper
+5,Marans2,Marans,1,684,1750,Brown,52.91,111,1,9,Continental,Blue
+6,Marans2,Marans,2,684,1750,Brown,52.91,111,1,9,Continental,Blue
+7,Marans2,Marans,3,684,1750,Brown,52.91,111,1,9,Continental,Blue
+8,Marans2,Marans,4,684,1750,Brown,52.91,111,1,9,Continental,Blue
+9,Marans2,Marans,5,684,1750,Brown,52.91,111,1,9,Continental,Blue
+10,Marans3,Marans,1,132,2370,Brown,49.72,125,1,7,Continental,Splash
+11,Marans3,Marans,2,132,2370,Brown,49.72,125,1,7,Continental,Splash
+12,Marans3,Marans,3,132,2370,Brown,49.72,125,1,7,Continental,Splash
+13,Marans3,Marans,4,132,2370,Brown,49.72,125,1,7,Continental,Splash
+14,Marans3,Marans,5,132,2370,Brown,49.72,125,1,7,Continental,Splash
+15,Marans4,Marans,1,226,2790,Brown,30.52,122,1,8,Continental,Splash Copper
+16,Marans4,Marans,2,226,2790,Brown,30.52,122,1,8,Continental,Splash Copper
+17,Marans4,Marans,3,226,2790,Brown,30.52,122,1,8,Continental,Splash Copper
+18,Marans4,Marans,4,226,2790,Brown,30.52,122,1,8,Continental,Splash Copper
+19,Marans4,Marans,5,226,2790,Brown,30.52,122,1,8,Continental,Splash Copper
+20,Marans5,Marans,1,288,2370,Brown,54.03,128,1,9,Continental,Splash Copper
+21,Marans5,Marans,2,288,2370,Brown,54.03,128,1,9,Continental,Splash Copper
+22,Marans5,Marans,3,288,2370,Brown,54.03,128,1,9,Continental,Splash Copper
+23,Marans5,Marans,4,288,2370,Brown,54.03,128,1,9,Continental,Splash Copper
+24,Marans5,Marans,5,288,2370,Brown,54.03,128,1,9,Continental,Splash Copper
+25,Marans6,Marans,1,125,2490,Brown,31.89,125,1,8,Continental,Splash Copper
+26,Marans6,Marans,2,125,2490,Brown,31.89,125,1,8,Continental,Splash Copper
+27,Marans6,Marans,3,125,2490,Brown,31.89,125,1,8,Continental,Splash Copper
+28,Marans6,Marans,4,125,2490,Brown,31.89,125,1,8,Continental,Splash Copper
+29,Marans6,Marans,5,125,2490,Brown,31.89,125,1,8,Continental,Splash Copper
+30,Marans7,Marans,1,494,2750,Brown,36.82,111,1,8,Continental,Blue Copper
+31,Marans7,Marans,2,494,2750,Brown,36.82,111,1,8,Continental,Blue Copper
+32,Marans7,Marans,3,494,2750,Brown,36.82,111,1,8,Continental,Blue Copper
+33,Marans7,Marans,4,494,2750,Brown,36.82,111,1,8,Continental,Blue Copper
+34,Marans7,Marans,5,494,2750,Brown,36.82,111,1,8,Continental,Blue Copper
+35,Marans8,Marans,1,984,2180,Brown,48.04,107,0,9,Continental,Blue
+36,Marans8,Marans,2,984,2180,Brown,48.04,107,0,9,Continental,Blue
+37,Marans8,Marans,3,984,2180,Brown,48.04,107,0,9,Continental,Blue
+38,Marans8,Marans,4,984,2180,Brown,48.04,107,0,9,Continental,Blue
+39,Marans8,Marans,5,984,2180,Brown,48.04,107,0,9,Continental,Blue
+40,Marans9,Marans,1,908,1730,Brown,38.66,110,1,10,Continental,Blue
+41,Marans9,Marans,2,908,1730,Brown,38.66,110,1,10,Continental,Blue
+42,Marans9,Marans,3,908,1730,Brown,38.66,110,1,10,Continental,Blue
+43,Marans9,Marans,4,908,1730,Brown,38.66,110,1,10,Continental,Blue
+44,Marans9,Marans,5,908,1730,Brown,38.66,110,1,10,Continental,Blue
+45,Marans10,Marans,1,619,2580,Brown,46.16,116,1,7,Continental,Splash
+46,Marans10,Marans,2,619,2580,Brown,46.16,116,1,7,Continental,Splash
+47,Marans10,Marans,3,619,2580,Brown,46.16,116,1,7,Continental,Splash
+48,Marans10,Marans,4,619,2580,Brown,46.16,116,1,7,Continental,Splash
+49,Marans10,Marans,5,619,2580,Brown,46.16,116,1,7,Continental,Splash
+50,Marans11,Marans,1,802,2450,Brown,49.22,126,1,10,Continental,Splash
+51,Marans11,Marans,2,802,2450,Brown,49.22,126,1,10,Continental,Splash
+52,Marans11,Marans,3,802,2450,Brown,49.22,126,1,10,Continental,Splash
+53,Marans11,Marans,4,802,2450,Brown,49.22,126,1,10,Continental,Splash
+54,Marans11,Marans,5,802,2450,Brown,49.22,126,1,10,Continental,Splash
+55,Marans12,Marans,1,725,2400,Brown,30.34,105,1,8,Continental,Blue
+56,Marans12,Marans,2,725,2400,Brown,30.34,105,1,8,Continental,Blue
+57,Marans12,Marans,3,725,2400,Brown,30.34,105,1,8,Continental,Blue
+58,Marans12,Marans,4,725,2400,Brown,30.34,105,1,8,Continental,Blue
+59,Marans12,Marans,5,725,2400,Brown,30.34,105,1,8,Continental,Blue
+60,Marans13,Marans,1,491,2250,Brown,41.2,120,1,8,Continental,Blue
+61,Marans13,Marans,2,491,2250,Brown,41.2,120,1,8,Continental,Blue
+62,Marans13,Marans,3,491,2250,Brown,41.2,120,1,8,Continental,Blue
+63,Marans13,Marans,4,491,2250,Brown,41.2,120,1,8,Continental,Blue
+64,Marans13,Marans,5,491,2250,Brown,41.2,120,1,8,Continental,Blue
+65,Marans14,Marans,1,342,2020,Brown,42.94,118,1,8,Continental,Splash Copper
+66,Marans14,Marans,2,342,2020,Brown,42.94,118,1,8,Continental,Splash Copper
+67,Marans14,Marans,3,342,2020,Brown,42.94,118,1,8,Continental,Splash Copper
+68,Marans14,Marans,4,342,2020,Brown,42.94,118,1,8,Continental,Splash Copper
+69,Marans14,Marans,5,342,2020,Brown,42.94,118,1,8,Continental,Splash Copper
+70,Marans15,Marans,1,134,1550,Brown,50.7,118,1,8,Continental,Splash
+71,Marans15,Marans,2,134,1550,Brown,50.7,118,1,8,Continental,Splash
+72,Marans15,Marans,3,134,1550,Brown,50.7,118,1,8,Continental,Splash
+73,Marans15,Marans,4,134,1550,Brown,50.7,118,1,8,Continental,Splash
+74,Marans15,Marans,5,134,1550,Brown,50.7,118,1,8,Continental,Splash
+75,Marans16,Marans,1,833,1520,Brown,34.99,122,1,8,Continental,Blue Copper
+76,Marans16,Marans,2,833,1520,Brown,34.99,122,1,8,Continental,Blue Copper
+77,Marans16,Marans,3,833,1520,Brown,34.99,122,1,8,Continental,Blue Copper
+78,Marans16,Marans,4,833,1520,Brown,34.99,122,1,8,Continental,Blue Copper
+79,Marans16,Marans,5,833,1520,Brown,34.99,122,1,8,Continental,Blue Copper
+80,Marans17,Marans,1,474,1790,Brown,42.89,111,1,7,Continental,Blue Copper
+81,Marans17,Marans,2,474,1790,Brown,42.89,111,1,7,Continental,Blue Copper
+82,Marans17,Marans,3,474,1790,Brown,42.89,111,1,7,Continental,Blue Copper
+83,Marans17,Marans,4,474,1790,Brown,42.89,111,1,7,Continental,Blue Copper
+84,Marans17,Marans,5,474,1790,Brown,42.89,111,1,7,Continental,Blue Copper
+85,Marans18,Marans,1,906,2220,Brown,44.15,109,1,10,Continental,Splash
+86,Marans18,Marans,2,906,2220,Brown,44.15,109,1,10,Continental,Splash
+87,Marans18,Marans,3,906,2220,Brown,44.15,109,1,10,Continental,Splash
+88,Marans18,Marans,4,906,2220,Brown,44.15,109,1,10,Continental,Splash
+89,Marans18,Marans,5,906,2220,Brown,44.15,109,1,10,Continental,Splash
+90,Marans19,Marans,1,442,1740,Brown,48.75,118,1,7,Continental,Splash Copper
+91,Marans19,Marans,2,442,1740,Brown,48.75,118,1,7,Continental,Splash Copper
+92,Marans19,Marans,3,442,1740,Brown,48.75,118,1,7,Continental,Splash Copper
+93,Marans19,Marans,4,442,1740,Brown,48.75,118,1,7,Continental,Splash Copper
+94,Marans19,Marans,5,442,1740,Brown,48.75,118,1,7,Continental,Splash Copper
+95,Marans20,Marans,1,233,2040,Brown,31.52,115,1,7,Continental,Splash Copper
+96,Marans20,Marans,2,233,2040,Brown,31.52,115,1,7,Continental,Splash Copper
+97,Marans20,Marans,3,233,2040,Brown,31.52,115,1,7,Continental,Splash Copper
+98,Marans20,Marans,4,233,2040,Brown,31.52,115,1,7,Continental,Splash Copper
+99,Marans20,Marans,5,233,2040,Brown,31.52,115,1,7,Continental,Splash Copper
+100,Marans21,Marans,1,118,2010,Brown,50.95,129,1,10,Continental,Splash
+101,Marans21,Marans,2,118,2010,Brown,50.95,129,1,10,Continental,Splash
+102,Marans21,Marans,3,118,2010,Brown,50.95,129,1,10,Continental,Splash
+103,Marans21,Marans,4,118,2010,Brown,50.95,129,1,10,Continental,Splash
+104,Marans21,Marans,5,118,2010,Brown,50.95,129,1,10,Continental,Splash
+105,Marans22,Marans,1,899,2190,Brown,49.75,106,1,9,Continental,Blue
+106,Marans22,Marans,2,899,2190,Brown,49.75,106,1,9,Continental,Blue
+107,Marans22,Marans,3,899,2190,Brown,49.75,106,1,9,Continental,Blue
+108,Marans22,Marans,4,899,2190,Brown,49.75,106,1,9,Continental,Blue
+109,Marans22,Marans,5,899,2190,Brown,49.75,106,1,9,Continental,Blue
+110,Marans23,Marans,1,866,2170,Brown,39.63,123,1,9,Continental,Blue
+111,Marans23,Marans,2,866,2170,Brown,39.63,123,1,9,Continental,Blue
+112,Marans23,Marans,3,866,2170,Brown,39.63,123,1,9,Continental,Blue
+113,Marans23,Marans,4,866,2170,Brown,39.63,123,1,9,Continental,Blue
+114,Marans23,Marans,5,866,2170,Brown,39.63,123,1,9,Continental,Blue
+115,Marans24,Marans,1,444,2230,Brown,31.63,118,1,7,Continental,Blue
+116,Marans24,Marans,2,444,2230,Brown,31.63,118,1,7,Continental,Blue
+117,Marans24,Marans,3,444,2230,Brown,31.63,118,1,7,Continental,Blue
+118,Marans24,Marans,4,444,2230,Brown,31.63,118,1,7,Continental,Blue
+119,Marans24,Marans,5,444,2230,Brown,31.63,118,1,7,Continental,Blue
+120,Marans25,Marans,1,425,2410,Brown,45.24,129,1,9,Continental,Splash
+121,Marans25,Marans,2,425,2410,Brown,45.24,129,1,9,Continental,Splash
+122,Marans25,Marans,3,425,2410,Brown,45.24,129,1,9,Continental,Splash
+123,Marans25,Marans,4,425,2410,Brown,45.24,129,1,9,Continental,Splash
+124,Marans25,Marans,5,425,2410,Brown,45.24,129,1,9,Continental,Splash
+125,Marans26,Marans,1,859,1890,Brown,53.83,121,1,7,Continental,Blue
+126,Marans26,Marans,2,859,1890,Brown,53.83,121,1,7,Continental,Blue
+127,Marans26,Marans,3,859,1890,Brown,53.83,121,1,7,Continental,Blue
+128,Marans26,Marans,4,859,1890,Brown,53.83,121,1,7,Continental,Blue
+129,Marans26,Marans,5,859,1890,Brown,53.83,121,1,7,Continental,Blue
+130,Marans27,Marans,1,179,1580,Brown,36.31,126,1,9,Continental,Blue Copper
+131,Marans27,Marans,2,179,1580,Brown,36.31,126,1,9,Continental,Blue Copper
+132,Marans27,Marans,3,179,1580,Brown,36.31,126,1,9,Continental,Blue Copper
+133,Marans27,Marans,4,179,1580,Brown,36.31,126,1,9,Continental,Blue Copper
+134,Marans27,Marans,5,179,1580,Brown,36.31,126,1,9,Continental,Blue Copper
+135,Marans28,Marans,1,469,1980,Brown,32.32,114,1,10,Continental,Blue
+136,Marans28,Marans,2,469,1980,Brown,32.32,114,1,10,Continental,Blue
+137,Marans28,Marans,3,469,1980,Brown,32.32,114,1,10,Continental,Blue
+138,Marans28,Marans,4,469,1980,Brown,32.32,114,1,10,Continental,Blue
+139,Marans28,Marans,5,469,1980,Brown,32.32,114,1,10,Continental,Blue
+140,Marans29,Marans,1,265,2370,Brown,40.41,117,1,7,Continental,Blue Copper
+141,Marans29,Marans,2,265,2370,Brown,40.41,117,1,7,Continental,Blue Copper
+142,Marans29,Marans,3,265,2370,Brown,40.41,117,1,7,Continental,Blue Copper
+143,Marans29,Marans,4,265,2370,Brown,40.41,117,1,7,Continental,Blue Copper
+144,Marans29,Marans,5,265,2370,Brown,40.41,117,1,7,Continental,Blue Copper
+145,Marans30,Marans,1,567,2550,Brown,40.19,121,1,9,Continental,Splash Copper
+146,Marans30,Marans,2,567,2550,Brown,40.19,121,1,9,Continental,Splash Copper
+147,Marans30,Marans,3,567,2550,Brown,40.19,121,1,9,Continental,Splash Copper
+148,Marans30,Marans,4,567,2550,Brown,40.19,121,1,9,Continental,Splash Copper
+149,Marans30,Marans,5,567,2550,Brown,40.19,121,1,9,Continental,Splash Copper
+150,Marans31,Marans,1,832,2050,Brown,54.24,110,1,9,Continental,Blue
+151,Marans31,Marans,2,832,2050,Brown,54.24,110,1,9,Continental,Blue
+152,Marans31,Marans,3,832,2050,Brown,54.24,110,1,9,Continental,Blue
+153,Marans31,Marans,4,832,2050,Brown,54.24,110,1,9,Continental,Blue
+154,Marans31,Marans,5,832,2050,Brown,54.24,110,1,9,Continental,Blue
+155,Marans32,Marans,1,460,2680,Brown,53.42,107,1,8,Continental,Blue
+156,Marans32,Marans,2,460,2680,Brown,53.42,107,1,8,Continental,Blue
+157,Marans32,Marans,3,460,2680,Brown,53.42,107,1,8,Continental,Blue
+158,Marans32,Marans,4,460,2680,Brown,53.42,107,1,8,Continental,Blue
+159,Marans32,Marans,5,460,2680,Brown,53.42,107,1,8,Continental,Blue
+160,Marans33,Marans,1,902,2210,Brown,32.66,120,1,8,Continental,Splash Copper
+161,Marans33,Marans,2,902,2210,Brown,32.66,120,1,8,Continental,Splash Copper
+162,Marans33,Marans,3,902,2210,Brown,32.66,120,1,8,Continental,Splash Copper
+163,Marans33,Marans,4,902,2210,Brown,32.66,120,1,8,Continental,Splash Copper
+164,Marans33,Marans,5,902,2210,Brown,32.66,120,1,8,Continental,Splash Copper
+165,Marans34,Marans,1,124,2670,Brown,47.32,106,1,8,Continental,Splash
+166,Marans34,Marans,2,124,2670,Brown,47.32,106,1,8,Continental,Splash
+167,Marans34,Marans,3,124,2670,Brown,47.32,106,1,8,Continental,Splash
+168,Marans34,Marans,4,124,2670,Brown,47.32,106,1,8,Continental,Splash
+169,Marans34,Marans,5,124,2670,Brown,47.32,106,1,8,Continental,Splash
+170,Marans35,Marans,1,626,2600,Brown,45.31,118,1,7,Continental,Blue
+171,Marans35,Marans,2,626,2600,Brown,45.31,118,1,7,Continental,Blue
+172,Marans35,Marans,3,626,2600,Brown,45.31,118,1,7,Continental,Blue
+173,Marans35,Marans,4,626,2600,Brown,45.31,118,1,7,Continental,Blue
+174,Marans35,Marans,5,626,2600,Brown,45.31,118,1,7,Continental,Blue
+175,Marans36,Marans,1,825,2650,Brown,41.74,108,1,8,Continental,Blue
+176,Marans36,Marans,2,825,2650,Brown,41.74,108,1,8,Continental,Blue
+177,Marans36,Marans,3,825,2650,Brown,41.74,108,1,8,Continental,Blue
+178,Marans36,Marans,4,825,2650,Brown,41.74,108,1,8,Continental,Blue
+179,Marans36,Marans,5,825,2650,Brown,41.74,108,1,8,Continental,Blue
+180,Marans37,Marans,1,182,2640,Brown,39.74,120,1,10,Continental,Blue Copper
+181,Marans37,Marans,2,182,2640,Brown,39.74,120,1,10,Continental,Blue Copper
+182,Marans37,Marans,3,182,2640,Brown,39.74,120,1,10,Continental,Blue Copper
+183,Marans37,Marans,4,182,2640,Brown,39.74,120,1,10,Continental,Blue Copper
+184,Marans37,Marans,5,182,2640,Brown,39.74,120,1,10,Continental,Blue Copper
+185,Marans38,Marans,1,635,2670,Brown,54.49,129,1,9,Continental,Splash
+186,Marans38,Marans,2,635,2670,Brown,54.49,129,1,9,Continental,Splash
+187,Marans38,Marans,3,635,2670,Brown,54.49,129,1,9,Continental,Splash
+188,Marans38,Marans,4,635,2670,Brown,54.49,129,1,9,Continental,Splash
+189,Marans38,Marans,5,635,2670,Brown,54.49,129,1,9,Continental,Splash
+190,Marans39,Marans,1,236,2940,Brown,50.31,117,1,8,Continental,Blue
+191,Marans39,Marans,2,236,2940,Brown,50.31,117,1,8,Continental,Blue
+192,Marans39,Marans,3,236,2940,Brown,50.31,117,1,8,Continental,Blue
+193,Marans39,Marans,4,236,2940,Brown,50.31,117,1,8,Continental,Blue
+194,Marans39,Marans,5,236,2940,Brown,50.31,117,1,8,Continental,Blue
+195,Marans40,Marans,1,904,1820,Brown,52.92,123,1,10,Continental,Blue
+196,Marans40,Marans,2,904,1820,Brown,52.92,123,1,10,Continental,Blue
+197,Marans40,Marans,3,904,1820,Brown,52.92,123,1,10,Continental,Blue
+198,Marans40,Marans,4,904,1820,Brown,52.92,123,1,10,Continental,Blue
+199,Marans40,Marans,5,904,1820,Brown,52.92,123,1,10,Continental,Blue
+200,Marans41,Marans,1,648,2240,Brown,31.68,128,1,8,Continental,Blue
+201,Marans41,Marans,2,648,2240,Brown,31.68,128,1,8,Continental,Blue
+202,Marans41,Marans,3,648,2240,Brown,31.68,128,1,8,Continental,Blue
+203,Marans41,Marans,4,648,2240,Brown,31.68,128,1,8,Continental,Blue
+204,Marans41,Marans,5,648,2240,Brown,31.68,128,1,8,Continental,Blue
+205,Marans42,Marans,1,936,1530,Brown,39.71,113,1,7,Continental,Blue Copper
+206,Marans42,Marans,2,936,1530,Brown,39.71,113,1,7,Continental,Blue Copper
+207,Marans42,Marans,3,936,1530,Brown,39.71,113,1,7,Continental,Blue Copper
+208,Marans42,Marans,4,936,1530,Brown,39.71,113,1,7,Continental,Blue Copper
+209,Marans42,Marans,5,936,1530,Brown,39.71,113,1,7,Continental,Blue Copper
+210,Marans43,Marans,1,979,2520,Brown,52.67,128,0,9,Continental,Blue
+211,Marans43,Marans,2,979,2520,Brown,52.67,128,0,9,Continental,Blue
+212,Marans43,Marans,3,979,2520,Brown,52.67,128,0,9,Continental,Blue
+213,Marans43,Marans,4,979,2520,Brown,52.67,128,0,9,Continental,Blue
+214,Marans43,Marans,5,979,2520,Brown,52.67,128,0,9,Continental,Blue
+215,Marans44,Marans,1,233,1990,Brown,37.33,125,1,7,Continental,Blue Copper
+216,Marans44,Marans,2,233,1990,Brown,37.33,125,1,7,Continental,Blue Copper
+217,Marans44,Marans,3,233,1990,Brown,37.33,125,1,7,Continental,Blue Copper
+218,Marans44,Marans,4,233,1990,Brown,37.33,125,1,7,Continental,Blue Copper
+219,Marans44,Marans,5,233,1990,Brown,37.33,125,1,7,Continental,Blue Copper
+220,Marans45,Marans,1,863,2930,Brown,42.53,117,1,10,Continental,Splash
+221,Marans45,Marans,2,863,2930,Brown,42.53,117,1,10,Continental,Splash
+222,Marans45,Marans,3,863,2930,Brown,42.53,117,1,10,Continental,Splash
+223,Marans45,Marans,4,863,2930,Brown,42.53,117,1,10,Continental,Splash
+224,Marans45,Marans,5,863,2930,Brown,42.53,117,1,10,Continental,Splash
+225,Marans46,Marans,1,866,2160,Brown,54.93,126,1,7,Continental,Blue Copper
+226,Marans46,Marans,2,866,2160,Brown,54.93,126,1,7,Continental,Blue Copper
+227,Marans46,Marans,3,866,2160,Brown,54.93,126,1,7,Continental,Blue Copper
+228,Marans46,Marans,4,866,2160,Brown,54.93,126,1,7,Continental,Blue Copper
+229,Marans46,Marans,5,866,2160,Brown,54.93,126,1,7,Continental,Blue Copper
+230,Marans47,Marans,1,809,1500,Brown,39.66,108,1,8,Continental,Blue Copper
+231,Marans47,Marans,2,809,1500,Brown,39.66,108,1,8,Continental,Blue Copper
+232,Marans47,Marans,3,809,1500,Brown,39.66,108,1,8,Continental,Blue Copper
+233,Marans47,Marans,4,809,1500,Brown,39.66,108,1,8,Continental,Blue Copper
+234,Marans47,Marans,5,809,1500,Brown,39.66,108,1,8,Continental,Blue Copper
+235,Marans48,Marans,1,193,2320,Brown,38.72,106,1,10,Continental,Splash
+236,Marans48,Marans,2,193,2320,Brown,38.72,106,1,10,Continental,Splash
+237,Marans48,Marans,3,193,2320,Brown,38.72,106,1,10,Continental,Splash
+238,Marans48,Marans,4,193,2320,Brown,38.72,106,1,10,Continental,Splash
+239,Marans48,Marans,5,193,2320,Brown,38.72,106,1,10,Continental,Splash
+240,Marans49,Marans,1,896,2240,Brown,43.01,114,1,8,Continental,Blue
+241,Marans49,Marans,2,896,2240,Brown,43.01,114,1,8,Continental,Blue
+242,Marans49,Marans,3,896,2240,Brown,43.01,114,1,8,Continental,Blue
+243,Marans49,Marans,4,896,2240,Brown,43.01,114,1,8,Continental,Blue
+244,Marans49,Marans,5,896,2240,Brown,43.01,114,1,8,Continental,Blue
+245,Marans50,Marans,1,769,2690,Brown,42.61,110,1,9,Continental,Blue
+246,Marans50,Marans,2,769,2690,Brown,42.61,110,1,9,Continental,Blue
+247,Marans50,Marans,3,769,2690,Brown,42.61,110,1,9,Continental,Blue
+248,Marans50,Marans,4,769,2690,Brown,42.61,110,1,9,Continental,Blue
+249,Marans50,Marans,5,769,2690,Brown,42.61,110,1,9,Continental,Blue
+250,Marans51,Marans,1,913,2330,Brown,40.57,113,1,10,Continental,Blue
+251,Marans51,Marans,2,913,2330,Brown,40.57,113,1,10,Continental,Blue
+252,Marans51,Marans,3,913,2330,Brown,40.57,113,1,10,Continental,Blue
+253,Marans51,Marans,4,913,2330,Brown,40.57,113,1,10,Continental,Blue
+254,Marans51,Marans,5,913,2330,Brown,40.57,113,1,10,Continental,Blue
+255,Marans52,Marans,1,84,2280,Brown,31.8,115,1,7,Continental,Blue Copper
+256,Marans52,Marans,2,84,2280,Brown,31.8,115,1,7,Continental,Blue Copper
+257,Marans52,Marans,3,84,2280,Brown,31.8,115,1,7,Continental,Blue Copper
+258,Marans52,Marans,4,84,2280,Brown,31.8,115,1,7,Continental,Blue Copper
+259,Marans52,Marans,5,84,2280,Brown,31.8,115,1,7,Continental,Blue Copper
+260,Marans53,Marans,1,660,2640,Brown,39.02,124,1,8,Continental,Blue Copper
+261,Marans53,Marans,2,660,2640,Brown,39.02,124,1,8,Continental,Blue Copper
+262,Marans53,Marans,3,660,2640,Brown,39.02,124,1,8,Continental,Blue Copper
+263,Marans53,Marans,4,660,2640,Brown,39.02,124,1,8,Continental,Blue Copper
+264,Marans53,Marans,5,660,2640,Brown,39.02,124,1,8,Continental,Blue Copper
+265,Marans54,Marans,1,491,2170,Brown,40.74,116,1,9,Continental,Splash Copper
+266,Marans54,Marans,2,491,2170,Brown,40.74,116,1,9,Continental,Splash Copper
+267,Marans54,Marans,3,491,2170,Brown,40.74,116,1,9,Continental,Splash Copper
+268,Marans54,Marans,4,491,2170,Brown,40.74,116,1,9,Continental,Splash Copper
+269,Marans54,Marans,5,491,2170,Brown,40.74,116,1,9,Continental,Splash Copper
+270,Marans55,Marans,1,699,2790,Brown,47.0,126,1,10,Continental,Blue
+271,Marans55,Marans,2,699,2790,Brown,47.0,126,1,10,Continental,Blue
+272,Marans55,Marans,3,699,2790,Brown,47.0,126,1,10,Continental,Blue
+273,Marans55,Marans,4,699,2790,Brown,47.0,126,1,10,Continental,Blue
+274,Marans55,Marans,5,699,2790,Brown,47.0,126,1,10,Continental,Blue
+275,Marans56,Marans,1,228,1530,Brown,46.59,107,1,9,Continental,Splash Copper
+276,Marans56,Marans,2,228,1530,Brown,46.59,107,1,9,Continental,Splash Copper
+277,Marans56,Marans,3,228,1530,Brown,46.59,107,1,9,Continental,Splash Copper
+278,Marans56,Marans,4,228,1530,Brown,46.59,107,1,9,Continental,Splash Copper
+279,Marans56,Marans,5,228,1530,Brown,46.59,107,1,9,Continental,Splash Copper
+280,Marans57,Marans,1,102,2030,Brown,41.08,112,1,8,Continental,Splash Copper
+281,Marans57,Marans,2,102,2030,Brown,41.08,112,1,8,Continental,Splash Copper
+282,Marans57,Marans,3,102,2030,Brown,41.08,112,1,8,Continental,Splash Copper
+283,Marans57,Marans,4,102,2030,Brown,41.08,112,1,8,Continental,Splash Copper
+284,Marans57,Marans,5,102,2030,Brown,41.08,112,1,8,Continental,Splash Copper
+285,Marans58,Marans,1,350,2330,Brown,43.45,115,1,9,Continental,Splash
+286,Marans58,Marans,2,350,2330,Brown,43.45,115,1,9,Continental,Splash
+287,Marans58,Marans,3,350,2330,Brown,43.45,115,1,9,Continental,Splash
+288,Marans58,Marans,4,350,2330,Brown,43.45,115,1,9,Continental,Splash
+289,Marans58,Marans,5,350,2330,Brown,43.45,115,1,9,Continental,Splash
+290,Marans59,Marans,1,407,2360,Brown,45.21,123,1,9,Continental,Blue Copper
+291,Marans59,Marans,2,407,2360,Brown,45.21,123,1,9,Continental,Blue Copper
+292,Marans59,Marans,3,407,2360,Brown,45.21,123,1,9,Continental,Blue Copper
+293,Marans59,Marans,4,407,2360,Brown,45.21,123,1,9,Continental,Blue Copper
+294,Marans59,Marans,5,407,2360,Brown,45.21,123,1,9,Continental,Blue Copper
+295,Marans60,Marans,1,124,2200,Brown,50.86,119,1,7,Continental,Splash
+296,Marans60,Marans,2,124,2200,Brown,50.86,119,1,7,Continental,Splash
+297,Marans60,Marans,3,124,2200,Brown,50.86,119,1,7,Continental,Splash
+298,Marans60,Marans,4,124,2200,Brown,50.86,119,1,7,Continental,Splash
+299,Marans60,Marans,5,124,2200,Brown,50.86,119,1,7,Continental,Splash
+300,Marans61,Marans,1,48,1880,Brown,46.4,124,1,9,Continental,Blue
+301,Marans61,Marans,2,48,1880,Brown,46.4,124,1,9,Continental,Blue
+302,Marans61,Marans,3,48,1880,Brown,46.4,124,1,9,Continental,Blue
+303,Marans61,Marans,4,48,1880,Brown,46.4,124,1,9,Continental,Blue
+304,Marans61,Marans,5,48,1880,Brown,46.4,124,1,9,Continental,Blue
+305,Marans62,Marans,1,866,1730,Brown,38.37,107,1,10,Continental,Blue Copper
+306,Marans62,Marans,2,866,1730,Brown,38.37,107,1,10,Continental,Blue Copper
+307,Marans62,Marans,3,866,1730,Brown,38.37,107,1,10,Continental,Blue Copper
+308,Marans62,Marans,4,866,1730,Brown,38.37,107,1,10,Continental,Blue Copper
+309,Marans62,Marans,5,866,1730,Brown,38.37,107,1,10,Continental,Blue Copper
+310,Marans63,Marans,1,990,1630,Brown,42.42,124,0,9,Continental,Splash Copper
+311,Marans63,Marans,2,990,1630,Brown,42.42,124,0,9,Continental,Splash Copper
+312,Marans63,Marans,3,990,1630,Brown,42.42,124,0,9,Continental,Splash Copper
+313,Marans63,Marans,4,990,1630,Brown,42.42,124,0,9,Continental,Splash Copper
+314,Marans63,Marans,5,990,1630,Brown,42.42,124,0,9,Continental,Splash Copper
+315,Marans64,Marans,1,461,2960,Brown,50.16,106,1,9,Continental,Splash Copper
+316,Marans64,Marans,2,461,2960,Brown,50.16,106,1,9,Continental,Splash Copper
+317,Marans64,Marans,3,461,2960,Brown,50.16,106,1,9,Continental,Splash Copper
+318,Marans64,Marans,4,461,2960,Brown,50.16,106,1,9,Continental,Splash Copper
+319,Marans64,Marans,5,461,2960,Brown,50.16,106,1,9,Continental,Splash Copper
+320,Marans65,Marans,1,664,1610,Brown,50.16,126,1,7,Continental,Splash Copper
+321,Marans65,Marans,2,664,1610,Brown,50.16,126,1,7,Continental,Splash Copper
+322,Marans65,Marans,3,664,1610,Brown,50.16,126,1,7,Continental,Splash Copper
+323,Marans65,Marans,4,664,1610,Brown,50.16,126,1,7,Continental,Splash Copper
+324,Marans65,Marans,5,664,1610,Brown,50.16,126,1,7,Continental,Splash Copper
+325,Marans66,Marans,1,555,2060,Brown,45.08,107,1,8,Continental,Blue
+326,Marans66,Marans,2,555,2060,Brown,45.08,107,1,8,Continental,Blue
+327,Marans66,Marans,3,555,2060,Brown,45.08,107,1,8,Continental,Blue
+328,Marans66,Marans,4,555,2060,Brown,45.08,107,1,8,Continental,Blue
+329,Marans66,Marans,5,555,2060,Brown,45.08,107,1,8,Continental,Blue
+330,Marans67,Marans,1,929,2510,Brown,38.66,114,1,10,Continental,Blue Copper
+331,Marans67,Marans,2,929,2510,Brown,38.66,114,1,10,Continental,Blue Copper
+332,Marans67,Marans,3,929,2510,Brown,38.66,114,1,10,Continental,Blue Copper
+333,Marans67,Marans,4,929,2510,Brown,38.66,114,1,10,Continental,Blue Copper
+334,Marans67,Marans,5,929,2510,Brown,38.66,114,1,10,Continental,Blue Copper
+335,Marans68,Marans,1,361,2680,Brown,31.09,128,1,9,Continental,Blue
+336,Marans68,Marans,2,361,2680,Brown,31.09,128,1,9,Continental,Blue
+337,Marans68,Marans,3,361,2680,Brown,31.09,128,1,9,Continental,Blue
+338,Marans68,Marans,4,361,2680,Brown,31.09,128,1,9,Continental,Blue
+339,Marans68,Marans,5,361,2680,Brown,31.09,128,1,9,Continental,Blue
+340,Marans69,Marans,1,802,1920,Brown,30.47,125,1,8,Continental,Splash Copper
+341,Marans69,Marans,2,802,1920,Brown,30.47,125,1,8,Continental,Splash Copper
+342,Marans69,Marans,3,802,1920,Brown,30.47,125,1,8,Continental,Splash Copper
+343,Marans69,Marans,4,802,1920,Brown,30.47,125,1,8,Continental,Splash Copper
+344,Marans69,Marans,5,802,1920,Brown,30.47,125,1,8,Continental,Splash Copper
+345,Marans70,Marans,1,761,1800,Brown,37.33,127,1,8,Continental,Blue Copper
+346,Marans70,Marans,2,761,1800,Brown,37.33,127,1,8,Continental,Blue Copper
+347,Marans70,Marans,3,761,1800,Brown,37.33,127,1,8,Continental,Blue Copper
+348,Marans70,Marans,4,761,1800,Brown,37.33,127,1,8,Continental,Blue Copper
+349,Marans70,Marans,5,761,1800,Brown,37.33,127,1,8,Continental,Blue Copper
+350,Marans71,Marans,1,825,2690,Brown,54.3,123,1,10,Continental,Blue
+351,Marans71,Marans,2,825,2690,Brown,54.3,123,1,10,Continental,Blue
+352,Marans71,Marans,3,825,2690,Brown,54.3,123,1,10,Continental,Blue
+353,Marans71,Marans,4,825,2690,Brown,54.3,123,1,10,Continental,Blue
+354,Marans71,Marans,5,825,2690,Brown,54.3,123,1,10,Continental,Blue
+355,Marans72,Marans,1,694,2230,Brown,49.18,117,1,10,Continental,Blue
+356,Marans72,Marans,2,694,2230,Brown,49.18,117,1,10,Continental,Blue
+357,Marans72,Marans,3,694,2230,Brown,49.18,117,1,10,Continental,Blue
+358,Marans72,Marans,4,694,2230,Brown,49.18,117,1,10,Continental,Blue
+359,Marans72,Marans,5,694,2230,Brown,49.18,117,1,10,Continental,Blue
+360,Marans73,Marans,1,933,2850,Brown,33.56,127,1,10,Continental,Blue Copper
+361,Marans73,Marans,2,933,2850,Brown,33.56,127,1,10,Continental,Blue Copper
+362,Marans73,Marans,3,933,2850,Brown,33.56,127,1,10,Continental,Blue Copper
+363,Marans73,Marans,4,933,2850,Brown,33.56,127,1,10,Continental,Blue Copper
+364,Marans73,Marans,5,933,2850,Brown,33.56,127,1,10,Continental,Blue Copper
+365,Marans74,Marans,1,400,1890,Brown,47.43,105,1,7,Continental,Splash
+366,Marans74,Marans,2,400,1890,Brown,47.43,105,1,7,Continental,Splash
+367,Marans74,Marans,3,400,1890,Brown,47.43,105,1,7,Continental,Splash
+368,Marans74,Marans,4,400,1890,Brown,47.43,105,1,7,Continental,Splash
+369,Marans74,Marans,5,400,1890,Brown,47.43,105,1,7,Continental,Splash
+370,Marans75,Marans,1,76,2080,Brown,36.64,112,1,9,Continental,Splash
+371,Marans75,Marans,2,76,2080,Brown,36.64,112,1,9,Continental,Splash
+372,Marans75,Marans,3,76,2080,Brown,36.64,112,1,9,Continental,Splash
+373,Marans75,Marans,4,76,2080,Brown,36.64,112,1,9,Continental,Splash
+374,Marans75,Marans,5,76,2080,Brown,36.64,112,1,9,Continental,Splash
+375,Marans76,Marans,1,332,2140,Brown,52.85,120,1,8,Continental,Splash
+376,Marans76,Marans,2,332,2140,Brown,52.85,120,1,8,Continental,Splash
+377,Marans76,Marans,3,332,2140,Brown,52.85,120,1,8,Continental,Splash
+378,Marans76,Marans,4,332,2140,Brown,52.85,120,1,8,Continental,Splash
+379,Marans76,Marans,5,332,2140,Brown,52.85,120,1,8,Continental,Splash
+380,Marans77,Marans,1,681,2060,Brown,34.6,129,1,8,Continental,Blue Copper
+381,Marans77,Marans,2,681,2060,Brown,34.6,129,1,8,Continental,Blue Copper
+382,Marans77,Marans,3,681,2060,Brown,34.6,129,1,8,Continental,Blue Copper
+383,Marans77,Marans,4,681,2060,Brown,34.6,129,1,8,Continental,Blue Copper
+384,Marans77,Marans,5,681,2060,Brown,34.6,129,1,8,Continental,Blue Copper
+385,Marans78,Marans,1,344,2790,Brown,31.87,108,1,9,Continental,Splash Copper
+386,Marans78,Marans,2,344,2790,Brown,31.87,108,1,9,Continental,Splash Copper
+387,Marans78,Marans,3,344,2790,Brown,31.87,108,1,9,Continental,Splash Copper
+388,Marans78,Marans,4,344,2790,Brown,31.87,108,1,9,Continental,Splash Copper
+389,Marans78,Marans,5,344,2790,Brown,31.87,108,1,9,Continental,Splash Copper
+390,Marans79,Marans,1,617,1700,Brown,32.34,113,1,7,Continental,Splash Copper
+391,Marans79,Marans,2,617,1700,Brown,32.34,113,1,7,Continental,Splash Copper
+392,Marans79,Marans,3,617,1700,Brown,32.34,113,1,7,Continental,Splash Copper
+393,Marans79,Marans,4,617,1700,Brown,32.34,113,1,7,Continental,Splash Copper
+394,Marans79,Marans,5,617,1700,Brown,32.34,113,1,7,Continental,Splash Copper
+395,Marans80,Marans,1,91,1820,Brown,45.25,108,1,9,Continental,Blue Copper
+396,Marans80,Marans,2,91,1820,Brown,45.25,108,1,9,Continental,Blue Copper
+397,Marans80,Marans,3,91,1820,Brown,45.25,108,1,9,Continental,Blue Copper
+398,Marans80,Marans,4,91,1820,Brown,45.25,108,1,9,Continental,Blue Copper
+399,Marans80,Marans,5,91,1820,Brown,45.25,108,1,9,Continental,Blue Copper
+400,Marans81,Marans,1,568,1520,Brown,52.35,119,1,9,Continental,Splash Copper
+401,Marans81,Marans,2,568,1520,Brown,52.35,119,1,9,Continental,Splash Copper
+402,Marans81,Marans,3,568,1520,Brown,52.35,119,1,9,Continental,Splash Copper
+403,Marans81,Marans,4,568,1520,Brown,52.35,119,1,9,Continental,Splash Copper
+404,Marans81,Marans,5,568,1520,Brown,52.35,119,1,9,Continental,Splash Copper
+405,Marans82,Marans,1,187,1650,Brown,45.24,107,1,9,Continental,Splash Copper
+406,Marans82,Marans,2,187,1650,Brown,45.24,107,1,9,Continental,Splash Copper
+407,Marans82,Marans,3,187,1650,Brown,45.24,107,1,9,Continental,Splash Copper
+408,Marans82,Marans,4,187,1650,Brown,45.24,107,1,9,Continental,Splash Copper
+409,Marans82,Marans,5,187,1650,Brown,45.24,107,1,9,Continental,Splash Copper
+410,Marans83,Marans,1,840,2300,Brown,40.4,128,1,7,Continental,Splash
+411,Marans83,Marans,2,840,2300,Brown,40.4,128,1,7,Continental,Splash
+412,Marans83,Marans,3,840,2300,Brown,40.4,128,1,7,Continental,Splash
+413,Marans83,Marans,4,840,2300,Brown,40.4,128,1,7,Continental,Splash
+414,Marans83,Marans,5,840,2300,Brown,40.4,128,1,7,Continental,Splash
+415,Marans84,Marans,1,224,2540,Brown,38.82,129,1,9,Continental,Splash Copper
+416,Marans84,Marans,2,224,2540,Brown,38.82,129,1,9,Continental,Splash Copper
+417,Marans84,Marans,3,224,2540,Brown,38.82,129,1,9,Continental,Splash Copper
+418,Marans84,Marans,4,224,2540,Brown,38.82,129,1,9,Continental,Splash Copper
+419,Marans84,Marans,5,224,2540,Brown,38.82,129,1,9,Continental,Splash Copper
+420,Marans85,Marans,1,201,2540,Brown,40.95,112,1,9,Continental,Blue Copper
+421,Marans85,Marans,2,201,2540,Brown,40.95,112,1,9,Continental,Blue Copper
+422,Marans85,Marans,3,201,2540,Brown,40.95,112,1,9,Continental,Blue Copper
+423,Marans85,Marans,4,201,2540,Brown,40.95,112,1,9,Continental,Blue Copper
+424,Marans85,Marans,5,201,2540,Brown,40.95,112,1,9,Continental,Blue Copper
+425,Marans86,Marans,1,612,1630,Brown,50.91,117,1,8,Continental,Splash
+426,Marans86,Marans,2,612,1630,Brown,50.91,117,1,8,Continental,Splash
+427,Marans86,Marans,3,612,1630,Brown,50.91,117,1,8,Continental,Splash
+428,Marans86,Marans,4,612,1630,Brown,50.91,117,1,8,Continental,Splash
+429,Marans86,Marans,5,612,1630,Brown,50.91,117,1,8,Continental,Splash
+430,Marans87,Marans,1,102,2320,Brown,54.47,107,1,8,Continental,Splash Copper
+431,Marans87,Marans,2,102,2320,Brown,54.47,107,1,8,Continental,Splash Copper
+432,Marans87,Marans,3,102,2320,Brown,54.47,107,1,8,Continental,Splash Copper
+433,Marans87,Marans,4,102,2320,Brown,54.47,107,1,8,Continental,Splash Copper
+434,Marans87,Marans,5,102,2320,Brown,54.47,107,1,8,Continental,Splash Copper
+435,Marans88,Marans,1,594,2250,Brown,47.18,106,1,8,Continental,Blue Copper
+436,Marans88,Marans,2,594,2250,Brown,47.18,106,1,8,Continental,Blue Copper
+437,Marans88,Marans,3,594,2250,Brown,47.18,106,1,8,Continental,Blue Copper
+438,Marans88,Marans,4,594,2250,Brown,47.18,106,1,8,Continental,Blue Copper
+439,Marans88,Marans,5,594,2250,Brown,47.18,106,1,8,Continental,Blue Copper
+440,Marans89,Marans,1,801,2100,Brown,46.74,123,1,10,Continental,Splash Copper
+441,Marans89,Marans,2,801,2100,Brown,46.74,123,1,10,Continental,Splash Copper
+442,Marans89,Marans,3,801,2100,Brown,46.74,123,1,10,Continental,Splash Copper
+443,Marans89,Marans,4,801,2100,Brown,46.74,123,1,10,Continental,Splash Copper
+444,Marans89,Marans,5,801,2100,Brown,46.74,123,1,10,Continental,Splash Copper
+445,Marans90,Marans,1,447,2880,Brown,48.56,120,1,7,Continental,Splash
+446,Marans90,Marans,2,447,2880,Brown,48.56,120,1,7,Continental,Splash
+447,Marans90,Marans,3,447,2880,Brown,48.56,120,1,7,Continental,Splash
+448,Marans90,Marans,4,447,2880,Brown,48.56,120,1,7,Continental,Splash
+449,Marans90,Marans,5,447,2880,Brown,48.56,120,1,7,Continental,Splash
+450,Marans91,Marans,1,358,2150,Brown,50.75,117,1,10,Continental,Splash Copper
+451,Marans91,Marans,2,358,2150,Brown,50.75,117,1,10,Continental,Splash Copper
+452,Marans91,Marans,3,358,2150,Brown,50.75,117,1,10,Continental,Splash Copper
+453,Marans91,Marans,4,358,2150,Brown,50.75,117,1,10,Continental,Splash Copper
+454,Marans91,Marans,5,358,2150,Brown,50.75,117,1,10,Continental,Splash Copper
+455,Marans92,Marans,1,692,2810,Brown,45.84,127,1,9,Continental,Blue
+456,Marans92,Marans,2,692,2810,Brown,45.84,127,1,9,Continental,Blue
+457,Marans92,Marans,3,692,2810,Brown,45.84,127,1,9,Continental,Blue
+458,Marans92,Marans,4,692,2810,Brown,45.84,127,1,9,Continental,Blue
+459,Marans92,Marans,5,692,2810,Brown,45.84,127,1,9,Continental,Blue
+460,Marans93,Marans,1,939,1600,Brown,40.03,117,1,8,Continental,Splash
+461,Marans93,Marans,2,939,1600,Brown,40.03,117,1,8,Continental,Splash
+462,Marans93,Marans,3,939,1600,Brown,40.03,117,1,8,Continental,Splash
+463,Marans93,Marans,4,939,1600,Brown,40.03,117,1,8,Continental,Splash
+464,Marans93,Marans,5,939,1600,Brown,40.03,117,1,8,Continental,Splash
+465,Marans94,Marans,1,732,2910,Brown,47.74,114,1,8,Continental,Splash Copper
+466,Marans94,Marans,2,732,2910,Brown,47.74,114,1,8,Continental,Splash Copper
+467,Marans94,Marans,3,732,2910,Brown,47.74,114,1,8,Continental,Splash Copper
+468,Marans94,Marans,4,732,2910,Brown,47.74,114,1,8,Continental,Splash Copper
+469,Marans94,Marans,5,732,2910,Brown,47.74,114,1,8,Continental,Splash Copper
+470,Marans95,Marans,1,591,2980,Brown,34.3,116,1,7,Continental,Blue
+471,Marans95,Marans,2,591,2980,Brown,34.3,116,1,7,Continental,Blue
+472,Marans95,Marans,3,591,2980,Brown,34.3,116,1,7,Continental,Blue
+473,Marans95,Marans,4,591,2980,Brown,34.3,116,1,7,Continental,Blue
+474,Marans95,Marans,5,591,2980,Brown,34.3,116,1,7,Continental,Blue
+475,Marans96,Marans,1,589,1890,Brown,37.9,115,1,8,Continental,Splash
+476,Marans96,Marans,2,589,1890,Brown,37.9,115,1,8,Continental,Splash
+477,Marans96,Marans,3,589,1890,Brown,37.9,115,1,8,Continental,Splash
+478,Marans96,Marans,4,589,1890,Brown,37.9,115,1,8,Continental,Splash
+479,Marans96,Marans,5,589,1890,Brown,37.9,115,1,8,Continental,Splash
+480,Marans97,Marans,1,72,2040,Brown,46.32,110,1,7,Continental,Blue Copper
+481,Marans97,Marans,2,72,2040,Brown,46.32,110,1,7,Continental,Blue Copper
+482,Marans97,Marans,3,72,2040,Brown,46.32,110,1,7,Continental,Blue Copper
+483,Marans97,Marans,4,72,2040,Brown,46.32,110,1,7,Continental,Blue Copper
+484,Marans97,Marans,5,72,2040,Brown,46.32,110,1,7,Continental,Blue Copper
+485,Marans98,Marans,1,393,1940,Brown,43.21,107,1,10,Continental,Blue Copper
+486,Marans98,Marans,2,393,1940,Brown,43.21,107,1,10,Continental,Blue Copper
+487,Marans98,Marans,3,393,1940,Brown,43.21,107,1,10,Continental,Blue Copper
+488,Marans98,Marans,4,393,1940,Brown,43.21,107,1,10,Continental,Blue Copper
+489,Marans98,Marans,5,393,1940,Brown,43.21,107,1,10,Continental,Blue Copper
+490,Marans99,Marans,1,94,2110,Brown,34.58,113,1,9,Continental,Splash
+491,Marans99,Marans,2,94,2110,Brown,34.58,113,1,9,Continental,Splash
+492,Marans99,Marans,3,94,2110,Brown,34.58,113,1,9,Continental,Splash
+493,Marans99,Marans,4,94,2110,Brown,34.58,113,1,9,Continental,Splash
+494,Marans99,Marans,5,94,2110,Brown,34.58,113,1,9,Continental,Splash
+495,Marans100,Marans,1,699,2690,Brown,44.34,107,1,7,Continental,Splash
+496,Marans100,Marans,2,699,2690,Brown,44.34,107,1,7,Continental,Splash
+497,Marans100,Marans,3,699,2690,Brown,44.34,107,1,7,Continental,Splash
+498,Marans100,Marans,4,699,2690,Brown,44.34,107,1,7,Continental,Splash
+499,Marans100,Marans,5,699,2690,Brown,44.34,107,1,7,Continental,Splash
+500,Marans101,Marans,1,294,2350,Brown,31.37,108,1,9,Continental,Blue Copper
+501,Marans101,Marans,2,294,2350,Brown,31.37,108,1,9,Continental,Blue Copper
+502,Marans101,Marans,3,294,2350,Brown,31.37,108,1,9,Continental,Blue Copper
+503,Marans101,Marans,4,294,2350,Brown,31.37,108,1,9,Continental,Blue Copper
+504,Marans101,Marans,5,294,2350,Brown,31.37,108,1,9,Continental,Blue Copper
+505,Marans102,Marans,1,466,1840,Brown,49.79,122,1,10,Continental,Splash Copper
+506,Marans102,Marans,2,466,1840,Brown,49.79,122,1,10,Continental,Splash Copper
+507,Marans102,Marans,3,466,1840,Brown,49.79,122,1,10,Continental,Splash Copper
+508,Marans102,Marans,4,466,1840,Brown,49.79,122,1,10,Continental,Splash Copper
+509,Marans102,Marans,5,466,1840,Brown,49.79,122,1,10,Continental,Splash Copper
+510,Marans103,Marans,1,526,2820,Brown,41.07,120,1,9,Continental,Blue
+511,Marans103,Marans,2,526,2820,Brown,41.07,120,1,9,Continental,Blue
+512,Marans103,Marans,3,526,2820,Brown,41.07,120,1,9,Continental,Blue
+513,Marans103,Marans,4,526,2820,Brown,41.07,120,1,9,Continental,Blue
+514,Marans103,Marans,5,526,2820,Brown,41.07,120,1,9,Continental,Blue
+515,Marans104,Marans,1,615,2210,Brown,34.07,127,1,9,Continental,Splash
+516,Marans104,Marans,2,615,2210,Brown,34.07,127,1,9,Continental,Splash
+517,Marans104,Marans,3,615,2210,Brown,34.07,127,1,9,Continental,Splash
+518,Marans104,Marans,4,615,2210,Brown,34.07,127,1,9,Continental,Splash
+519,Marans104,Marans,5,615,2210,Brown,34.07,127,1,9,Continental,Splash
+520,Marans105,Marans,1,55,2190,Brown,38.28,123,1,9,Continental,Blue Copper
+521,Marans105,Marans,2,55,2190,Brown,38.28,123,1,9,Continental,Blue Copper
+522,Marans105,Marans,3,55,2190,Brown,38.28,123,1,9,Continental,Blue Copper
+523,Marans105,Marans,4,55,2190,Brown,38.28,123,1,9,Continental,Blue Copper
+524,Marans105,Marans,5,55,2190,Brown,38.28,123,1,9,Continental,Blue Copper
+525,Marans106,Marans,1,395,1700,Brown,43.19,113,1,8,Continental,Splash Copper
+526,Marans106,Marans,2,395,1700,Brown,43.19,113,1,8,Continental,Splash Copper
+527,Marans106,Marans,3,395,1700,Brown,43.19,113,1,8,Continental,Splash Copper
+528,Marans106,Marans,4,395,1700,Brown,43.19,113,1,8,Continental,Splash Copper
+529,Marans106,Marans,5,395,1700,Brown,43.19,113,1,8,Continental,Splash Copper
+530,Marans107,Marans,1,405,2210,Brown,35.58,121,1,7,Continental,Splash Copper
+531,Marans107,Marans,2,405,2210,Brown,35.58,121,1,7,Continental,Splash Copper
+532,Marans107,Marans,3,405,2210,Brown,35.58,121,1,7,Continental,Splash Copper
+533,Marans107,Marans,4,405,2210,Brown,35.58,121,1,7,Continental,Splash Copper
+534,Marans107,Marans,5,405,2210,Brown,35.58,121,1,7,Continental,Splash Copper
+535,Marans108,Marans,1,350,2810,Brown,44.02,121,1,7,Continental,Blue
+536,Marans108,Marans,2,350,2810,Brown,44.02,121,1,7,Continental,Blue
+537,Marans108,Marans,3,350,2810,Brown,44.02,121,1,7,Continental,Blue
+538,Marans108,Marans,4,350,2810,Brown,44.02,121,1,7,Continental,Blue
+539,Marans108,Marans,5,350,2810,Brown,44.02,121,1,7,Continental,Blue
+540,Marans109,Marans,1,717,2650,Brown,35.25,128,1,8,Continental,Splash Copper
+541,Marans109,Marans,2,717,2650,Brown,35.25,128,1,8,Continental,Splash Copper
+542,Marans109,Marans,3,717,2650,Brown,35.25,128,1,8,Continental,Splash Copper
+543,Marans109,Marans,4,717,2650,Brown,35.25,128,1,8,Continental,Splash Copper
+544,Marans109,Marans,5,717,2650,Brown,35.25,128,1,8,Continental,Splash Copper
+545,Marans110,Marans,1,24,1880,Brown,33.49,112,1,8,Continental,Splash Copper
+546,Marans110,Marans,2,24,1880,Brown,33.49,112,1,8,Continental,Splash Copper
+547,Marans110,Marans,3,24,1880,Brown,33.49,112,1,8,Continental,Splash Copper
+548,Marans110,Marans,4,24,1880,Brown,33.49,112,1,8,Continental,Splash Copper
+549,Marans110,Marans,5,24,1880,Brown,33.49,112,1,8,Continental,Splash Copper
+550,Marans111,Marans,1,559,2900,Brown,50.94,107,1,9,Continental,Splash
+551,Marans111,Marans,2,559,2900,Brown,50.94,107,1,9,Continental,Splash
+552,Marans111,Marans,3,559,2900,Brown,50.94,107,1,9,Continental,Splash
+553,Marans111,Marans,4,559,2900,Brown,50.94,107,1,9,Continental,Splash
+554,Marans111,Marans,5,559,2900,Brown,50.94,107,1,9,Continental,Splash
+555,Marans112,Marans,1,961,1780,Brown,34.32,127,0,7,Continental,Splash Copper
+556,Marans112,Marans,2,961,1780,Brown,34.32,127,0,7,Continental,Splash Copper
+557,Marans112,Marans,3,961,1780,Brown,34.32,127,0,7,Continental,Splash Copper
+558,Marans112,Marans,4,961,1780,Brown,34.32,127,0,7,Continental,Splash Copper
+559,Marans112,Marans,5,961,1780,Brown,34.32,127,0,7,Continental,Splash Copper
+560,Marans113,Marans,1,95,2630,Brown,33.47,105,1,8,Continental,Blue
+561,Marans113,Marans,2,95,2630,Brown,33.47,105,1,8,Continental,Blue
+562,Marans113,Marans,3,95,2630,Brown,33.47,105,1,8,Continental,Blue
+563,Marans113,Marans,4,95,2630,Brown,33.47,105,1,8,Continental,Blue
+564,Marans113,Marans,5,95,2630,Brown,33.47,105,1,8,Continental,Blue
+565,Marans114,Marans,1,206,2360,Brown,34.53,111,1,8,Continental,Blue
+566,Marans114,Marans,2,206,2360,Brown,34.53,111,1,8,Continental,Blue
+567,Marans114,Marans,3,206,2360,Brown,34.53,111,1,8,Continental,Blue
+568,Marans114,Marans,4,206,2360,Brown,34.53,111,1,8,Continental,Blue
+569,Marans114,Marans,5,206,2360,Brown,34.53,111,1,8,Continental,Blue
+570,Marans115,Marans,1,76,1600,Brown,41.81,110,1,7,Continental,Blue
+571,Marans115,Marans,2,76,1600,Brown,41.81,110,1,7,Continental,Blue
+572,Marans115,Marans,3,76,1600,Brown,41.81,110,1,7,Continental,Blue
+573,Marans115,Marans,4,76,1600,Brown,41.81,110,1,7,Continental,Blue
+574,Marans115,Marans,5,76,1600,Brown,41.81,110,1,7,Continental,Blue
+575,Marans116,Marans,1,418,2100,Brown,35.14,127,1,7,Continental,Blue
+576,Marans116,Marans,2,418,2100,Brown,35.14,127,1,7,Continental,Blue
+577,Marans116,Marans,3,418,2100,Brown,35.14,127,1,7,Continental,Blue
+578,Marans116,Marans,4,418,2100,Brown,35.14,127,1,7,Continental,Blue
+579,Marans116,Marans,5,418,2100,Brown,35.14,127,1,7,Continental,Blue
+580,Marans117,Marans,1,461,2940,Brown,39.34,122,1,9,Continental,Splash Copper
+581,Marans117,Marans,2,461,2940,Brown,39.34,122,1,9,Continental,Splash Copper
+582,Marans117,Marans,3,461,2940,Brown,39.34,122,1,9,Continental,Splash Copper
+583,Marans117,Marans,4,461,2940,Brown,39.34,122,1,9,Continental,Splash Copper
+584,Marans117,Marans,5,461,2940,Brown,39.34,122,1,9,Continental,Splash Copper
+585,Marans118,Marans,1,186,1780,Brown,33.87,123,1,7,Continental,Blue
+586,Marans118,Marans,2,186,1780,Brown,33.87,123,1,7,Continental,Blue
+587,Marans118,Marans,3,186,1780,Brown,33.87,123,1,7,Continental,Blue
+588,Marans118,Marans,4,186,1780,Brown,33.87,123,1,7,Continental,Blue
+589,Marans118,Marans,5,186,1780,Brown,33.87,123,1,7,Continental,Blue
+590,Marans119,Marans,1,383,2390,Brown,50.31,122,1,10,Continental,Blue
+591,Marans119,Marans,2,383,2390,Brown,50.31,122,1,10,Continental,Blue
+592,Marans119,Marans,3,383,2390,Brown,50.31,122,1,10,Continental,Blue
+593,Marans119,Marans,4,383,2390,Brown,50.31,122,1,10,Continental,Blue
+594,Marans119,Marans,5,383,2390,Brown,50.31,122,1,10,Continental,Blue
+595,Marans120,Marans,1,200,1710,Brown,30.46,105,1,9,Continental,Blue Copper
+596,Marans120,Marans,2,200,1710,Brown,30.46,105,1,9,Continental,Blue Copper
+597,Marans120,Marans,3,200,1710,Brown,30.46,105,1,9,Continental,Blue Copper
+598,Marans120,Marans,4,200,1710,Brown,30.46,105,1,9,Continental,Blue Copper
+599,Marans120,Marans,5,200,1710,Brown,30.46,105,1,9,Continental,Blue Copper
+600,Marans121,Marans,1,146,1650,Brown,33.33,112,1,10,Continental,Splash
+601,Marans121,Marans,2,146,1650,Brown,33.33,112,1,10,Continental,Splash
+602,Marans121,Marans,3,146,1650,Brown,33.33,112,1,10,Continental,Splash
+603,Marans121,Marans,4,146,1650,Brown,33.33,112,1,10,Continental,Splash
+604,Marans121,Marans,5,146,1650,Brown,33.33,112,1,10,Continental,Splash
+605,Marans122,Marans,1,262,2060,Brown,48.09,112,1,10,Continental,Splash
+606,Marans122,Marans,2,262,2060,Brown,48.09,112,1,10,Continental,Splash
+607,Marans122,Marans,3,262,2060,Brown,48.09,112,1,10,Continental,Splash
+608,Marans122,Marans,4,262,2060,Brown,48.09,112,1,10,Continental,Splash
+609,Marans122,Marans,5,262,2060,Brown,48.09,112,1,10,Continental,Splash
+610,Marans123,Marans,1,35,2170,Brown,53.58,107,1,7,Continental,Splash Copper
+611,Marans123,Marans,2,35,2170,Brown,53.58,107,1,7,Continental,Splash Copper
+612,Marans123,Marans,3,35,2170,Brown,53.58,107,1,7,Continental,Splash Copper
+613,Marans123,Marans,4,35,2170,Brown,53.58,107,1,7,Continental,Splash Copper
+614,Marans123,Marans,5,35,2170,Brown,53.58,107,1,7,Continental,Splash Copper
+615,Marans124,Marans,1,147,2730,Brown,37.64,129,1,8,Continental,Splash
+616,Marans124,Marans,2,147,2730,Brown,37.64,129,1,8,Continental,Splash
+617,Marans124,Marans,3,147,2730,Brown,37.64,129,1,8,Continental,Splash
+618,Marans124,Marans,4,147,2730,Brown,37.64,129,1,8,Continental,Splash
+619,Marans124,Marans,5,147,2730,Brown,37.64,129,1,8,Continental,Splash
+620,Marans125,Marans,1,639,1590,Brown,40.49,105,1,7,Continental,Splash
+621,Marans125,Marans,2,639,1590,Brown,40.49,105,1,7,Continental,Splash
+622,Marans125,Marans,3,639,1590,Brown,40.49,105,1,7,Continental,Splash
+623,Marans125,Marans,4,639,1590,Brown,40.49,105,1,7,Continental,Splash
+624,Marans125,Marans,5,639,1590,Brown,40.49,105,1,7,Continental,Splash
+625,Marans126,Marans,1,266,1700,Brown,53.94,129,1,7,Continental,Splash Copper
+626,Marans126,Marans,2,266,1700,Brown,53.94,129,1,7,Continental,Splash Copper
+627,Marans126,Marans,3,266,1700,Brown,53.94,129,1,7,Continental,Splash Copper
+628,Marans126,Marans,4,266,1700,Brown,53.94,129,1,7,Continental,Splash Copper
+629,Marans126,Marans,5,266,1700,Brown,53.94,129,1,7,Continental,Splash Copper
+630,Marans127,Marans,1,160,2970,Brown,30.8,108,1,9,Continental,Splash Copper
+631,Marans127,Marans,2,160,2970,Brown,30.8,108,1,9,Continental,Splash Copper
+632,Marans127,Marans,3,160,2970,Brown,30.8,108,1,9,Continental,Splash Copper
+633,Marans127,Marans,4,160,2970,Brown,30.8,108,1,9,Continental,Splash Copper
+634,Marans127,Marans,5,160,2970,Brown,30.8,108,1,9,Continental,Splash Copper
+635,Marans128,Marans,1,707,1920,Brown,52.32,128,1,9,Continental,Splash Copper
+636,Marans128,Marans,2,707,1920,Brown,52.32,128,1,9,Continental,Splash Copper
+637,Marans128,Marans,3,707,1920,Brown,52.32,128,1,9,Continental,Splash Copper
+638,Marans128,Marans,4,707,1920,Brown,52.32,128,1,9,Continental,Splash Copper
+639,Marans128,Marans,5,707,1920,Brown,52.32,128,1,9,Continental,Splash Copper
+640,Marans129,Marans,1,475,2490,Brown,53.9,116,1,9,Continental,Blue
+641,Marans129,Marans,2,475,2490,Brown,53.9,116,1,9,Continental,Blue
+642,Marans129,Marans,3,475,2490,Brown,53.9,116,1,9,Continental,Blue
+643,Marans129,Marans,4,475,2490,Brown,53.9,116,1,9,Continental,Blue
+644,Marans129,Marans,5,475,2490,Brown,53.9,116,1,9,Continental,Blue
+645,Marans130,Marans,1,567,2030,Brown,45.05,124,1,7,Continental,Blue
+646,Marans130,Marans,2,567,2030,Brown,45.05,124,1,7,Continental,Blue
+647,Marans130,Marans,3,567,2030,Brown,45.05,124,1,7,Continental,Blue
+648,Marans130,Marans,4,567,2030,Brown,45.05,124,1,7,Continental,Blue
+649,Marans130,Marans,5,567,2030,Brown,45.05,124,1,7,Continental,Blue
+650,Marans131,Marans,1,661,2940,Brown,52.02,125,1,7,Continental,Splash
+651,Marans131,Marans,2,661,2940,Brown,52.02,125,1,7,Continental,Splash
+652,Marans131,Marans,3,661,2940,Brown,52.02,125,1,7,Continental,Splash
+653,Marans131,Marans,4,661,2940,Brown,52.02,125,1,7,Continental,Splash
+654,Marans131,Marans,5,661,2940,Brown,52.02,125,1,7,Continental,Splash
+655,Marans132,Marans,1,288,2990,Brown,54.23,125,1,10,Continental,Splash
+656,Marans132,Marans,2,288,2990,Brown,54.23,125,1,10,Continental,Splash
+657,Marans132,Marans,3,288,2990,Brown,54.23,125,1,10,Continental,Splash
+658,Marans132,Marans,4,288,2990,Brown,54.23,125,1,10,Continental,Splash
+659,Marans132,Marans,5,288,2990,Brown,54.23,125,1,10,Continental,Splash
+660,Marans133,Marans,1,753,2810,Brown,33.72,112,1,8,Continental,Splash
+661,Marans133,Marans,2,753,2810,Brown,33.72,112,1,8,Continental,Splash
+662,Marans133,Marans,3,753,2810,Brown,33.72,112,1,8,Continental,Splash
+663,Marans133,Marans,4,753,2810,Brown,33.72,112,1,8,Continental,Splash
+664,Marans133,Marans,5,753,2810,Brown,33.72,112,1,8,Continental,Splash
+665,Marans134,Marans,1,853,2840,Brown,45.95,127,1,8,Continental,Blue
+666,Marans134,Marans,2,853,2840,Brown,45.95,127,1,8,Continental,Blue
+667,Marans134,Marans,3,853,2840,Brown,45.95,127,1,8,Continental,Blue
+668,Marans134,Marans,4,853,2840,Brown,45.95,127,1,8,Continental,Blue
+669,Marans134,Marans,5,853,2840,Brown,45.95,127,1,8,Continental,Blue
+670,Marans135,Marans,1,71,1870,Brown,36.41,105,1,7,Continental,Blue
+671,Marans135,Marans,2,71,1870,Brown,36.41,105,1,7,Continental,Blue
+672,Marans135,Marans,3,71,1870,Brown,36.41,105,1,7,Continental,Blue
+673,Marans135,Marans,4,71,1870,Brown,36.41,105,1,7,Continental,Blue
+674,Marans135,Marans,5,71,1870,Brown,36.41,105,1,7,Continental,Blue
+675,Marans136,Marans,1,863,1970,Brown,48.22,106,1,8,Continental,Blue Copper
+676,Marans136,Marans,2,863,1970,Brown,48.22,106,1,8,Continental,Blue Copper
+677,Marans136,Marans,3,863,1970,Brown,48.22,106,1,8,Continental,Blue Copper
+678,Marans136,Marans,4,863,1970,Brown,48.22,106,1,8,Continental,Blue Copper
+679,Marans136,Marans,5,863,1970,Brown,48.22,106,1,8,Continental,Blue Copper
+680,Marans137,Marans,1,521,1930,Brown,31.14,106,1,8,Continental,Blue Copper
+681,Marans137,Marans,2,521,1930,Brown,31.14,106,1,8,Continental,Blue Copper
+682,Marans137,Marans,3,521,1930,Brown,31.14,106,1,8,Continental,Blue Copper
+683,Marans137,Marans,4,521,1930,Brown,31.14,106,1,8,Continental,Blue Copper
+684,Marans137,Marans,5,521,1930,Brown,31.14,106,1,8,Continental,Blue Copper
+685,Marans138,Marans,1,61,2540,Brown,36.49,112,1,7,Continental,Blue
+686,Marans138,Marans,2,61,2540,Brown,36.49,112,1,7,Continental,Blue
+687,Marans138,Marans,3,61,2540,Brown,36.49,112,1,7,Continental,Blue
+688,Marans138,Marans,4,61,2540,Brown,36.49,112,1,7,Continental,Blue
+689,Marans138,Marans,5,61,2540,Brown,36.49,112,1,7,Continental,Blue
+690,Marans139,Marans,1,117,1650,Brown,32.33,119,1,8,Continental,Blue
+691,Marans139,Marans,2,117,1650,Brown,32.33,119,1,8,Continental,Blue
+692,Marans139,Marans,3,117,1650,Brown,32.33,119,1,8,Continental,Blue
+693,Marans139,Marans,4,117,1650,Brown,32.33,119,1,8,Continental,Blue
+694,Marans139,Marans,5,117,1650,Brown,32.33,119,1,8,Continental,Blue
+695,Marans140,Marans,1,907,1700,Brown,36.28,115,1,8,Continental,Blue Copper
+696,Marans140,Marans,2,907,1700,Brown,36.28,115,1,8,Continental,Blue Copper
+697,Marans140,Marans,3,907,1700,Brown,36.28,115,1,8,Continental,Blue Copper
+698,Marans140,Marans,4,907,1700,Brown,36.28,115,1,8,Continental,Blue Copper
+699,Marans140,Marans,5,907,1700,Brown,36.28,115,1,8,Continental,Blue Copper
+700,Marans141,Marans,1,964,1680,Brown,37.15,128,0,7,Continental,Splash
+701,Marans141,Marans,2,964,1680,Brown,37.15,128,0,7,Continental,Splash
+702,Marans141,Marans,3,964,1680,Brown,37.15,128,0,7,Continental,Splash
+703,Marans141,Marans,4,964,1680,Brown,37.15,128,0,7,Continental,Splash
+704,Marans141,Marans,5,964,1680,Brown,37.15,128,0,7,Continental,Splash
+705,Marans142,Marans,1,769,2160,Brown,36.78,120,1,9,Continental,Splash Copper
+706,Marans142,Marans,2,769,2160,Brown,36.78,120,1,9,Continental,Splash Copper
+707,Marans142,Marans,3,769,2160,Brown,36.78,120,1,9,Continental,Splash Copper
+708,Marans142,Marans,4,769,2160,Brown,36.78,120,1,9,Continental,Splash Copper
+709,Marans142,Marans,5,769,2160,Brown,36.78,120,1,9,Continental,Splash Copper
+710,Marans143,Marans,1,361,1930,Brown,49.42,123,1,10,Continental,Blue Copper
+711,Marans143,Marans,2,361,1930,Brown,49.42,123,1,10,Continental,Blue Copper
+712,Marans143,Marans,3,361,1930,Brown,49.42,123,1,10,Continental,Blue Copper
+713,Marans143,Marans,4,361,1930,Brown,49.42,123,1,10,Continental,Blue Copper
+714,Marans143,Marans,5,361,1930,Brown,49.42,123,1,10,Continental,Blue Copper
+715,Marans144,Marans,1,421,1750,Brown,49.74,109,1,7,Continental,Splash
+716,Marans144,Marans,2,421,1750,Brown,49.74,109,1,7,Continental,Splash
+717,Marans144,Marans,3,421,1750,Brown,49.74,109,1,7,Continental,Splash
+718,Marans144,Marans,4,421,1750,Brown,49.74,109,1,7,Continental,Splash
+719,Marans144,Marans,5,421,1750,Brown,49.74,109,1,7,Continental,Splash
+720,Marans145,Marans,1,845,2880,Brown,46.91,109,1,8,Continental,Splash Copper
+721,Marans145,Marans,2,845,2880,Brown,46.91,109,1,8,Continental,Splash Copper
+722,Marans145,Marans,3,845,2880,Brown,46.91,109,1,8,Continental,Splash Copper
+723,Marans145,Marans,4,845,2880,Brown,46.91,109,1,8,Continental,Splash Copper
+724,Marans145,Marans,5,845,2880,Brown,46.91,109,1,8,Continental,Splash Copper
+725,Marans146,Marans,1,814,1520,Brown,48.93,113,1,7,Continental,Splash Copper
+726,Marans146,Marans,2,814,1520,Brown,48.93,113,1,7,Continental,Splash Copper
+727,Marans146,Marans,3,814,1520,Brown,48.93,113,1,7,Continental,Splash Copper
+728,Marans146,Marans,4,814,1520,Brown,48.93,113,1,7,Continental,Splash Copper
+729,Marans146,Marans,5,814,1520,Brown,48.93,113,1,7,Continental,Splash Copper
+730,Marans147,Marans,1,702,2930,Brown,35.25,128,1,9,Continental,Blue Copper
+731,Marans147,Marans,2,702,2930,Brown,35.25,128,1,9,Continental,Blue Copper
+732,Marans147,Marans,3,702,2930,Brown,35.25,128,1,9,Continental,Blue Copper
+733,Marans147,Marans,4,702,2930,Brown,35.25,128,1,9,Continental,Blue Copper
+734,Marans147,Marans,5,702,2930,Brown,35.25,128,1,9,Continental,Blue Copper
+735,Marans148,Marans,1,882,2220,Brown,30.86,129,1,8,Continental,Blue Copper
+736,Marans148,Marans,2,882,2220,Brown,30.86,129,1,8,Continental,Blue Copper
+737,Marans148,Marans,3,882,2220,Brown,30.86,129,1,8,Continental,Blue Copper
+738,Marans148,Marans,4,882,2220,Brown,30.86,129,1,8,Continental,Blue Copper
+739,Marans148,Marans,5,882,2220,Brown,30.86,129,1,8,Continental,Blue Copper
+740,Marans149,Marans,1,92,2010,Brown,33.14,114,1,8,Continental,Splash Copper
+741,Marans149,Marans,2,92,2010,Brown,33.14,114,1,8,Continental,Splash Copper
+742,Marans149,Marans,3,92,2010,Brown,33.14,114,1,8,Continental,Splash Copper
+743,Marans149,Marans,4,92,2010,Brown,33.14,114,1,8,Continental,Splash Copper
+744,Marans149,Marans,5,92,2010,Brown,33.14,114,1,8,Continental,Splash Copper
+745,Marans150,Marans,1,976,1510,Brown,46.58,111,0,8,Continental,Splash
+746,Marans150,Marans,2,976,1510,Brown,46.58,111,0,8,Continental,Splash
+747,Marans150,Marans,3,976,1510,Brown,46.58,111,0,8,Continental,Splash
+748,Marans150,Marans,4,976,1510,Brown,46.58,111,0,8,Continental,Splash
+749,Marans150,Marans,5,976,1510,Brown,46.58,111,0,8,Continental,Splash
+750,Marans151,Marans,1,529,2960,Brown,43.86,117,1,9,Continental,Splash
+751,Marans151,Marans,2,529,2960,Brown,43.86,117,1,9,Continental,Splash
+752,Marans151,Marans,3,529,2960,Brown,43.86,117,1,9,Continental,Splash
+753,Marans151,Marans,4,529,2960,Brown,43.86,117,1,9,Continental,Splash
+754,Marans151,Marans,5,529,2960,Brown,43.86,117,1,9,Continental,Splash
+755,Marans152,Marans,1,800,2290,Brown,35.44,120,1,8,Continental,Splash
+756,Marans152,Marans,2,800,2290,Brown,35.44,120,1,8,Continental,Splash
+757,Marans152,Marans,3,800,2290,Brown,35.44,120,1,8,Continental,Splash
+758,Marans152,Marans,4,800,2290,Brown,35.44,120,1,8,Continental,Splash
+759,Marans152,Marans,5,800,2290,Brown,35.44,120,1,8,Continental,Splash
+760,Marans153,Marans,1,250,2980,Brown,44.2,110,1,7,Continental,Splash Copper
+761,Marans153,Marans,2,250,2980,Brown,44.2,110,1,7,Continental,Splash Copper
+762,Marans153,Marans,3,250,2980,Brown,44.2,110,1,7,Continental,Splash Copper
+763,Marans153,Marans,4,250,2980,Brown,44.2,110,1,7,Continental,Splash Copper
+764,Marans153,Marans,5,250,2980,Brown,44.2,110,1,7,Continental,Splash Copper
+765,Marans154,Marans,1,659,2980,Brown,32.06,112,1,9,Continental,Blue
+766,Marans154,Marans,2,659,2980,Brown,32.06,112,1,9,Continental,Blue
+767,Marans154,Marans,3,659,2980,Brown,32.06,112,1,9,Continental,Blue
+768,Marans154,Marans,4,659,2980,Brown,32.06,112,1,9,Continental,Blue
+769,Marans154,Marans,5,659,2980,Brown,32.06,112,1,9,Continental,Blue
+770,Marans155,Marans,1,867,2790,Brown,30.08,108,1,7,Continental,Blue
+771,Marans155,Marans,2,867,2790,Brown,30.08,108,1,7,Continental,Blue
+772,Marans155,Marans,3,867,2790,Brown,30.08,108,1,7,Continental,Blue
+773,Marans155,Marans,4,867,2790,Brown,30.08,108,1,7,Continental,Blue
+774,Marans155,Marans,5,867,2790,Brown,30.08,108,1,7,Continental,Blue
+775,Marans156,Marans,1,687,2890,Brown,45.01,122,1,10,Continental,Blue Copper
+776,Marans156,Marans,2,687,2890,Brown,45.01,122,1,10,Continental,Blue Copper
+777,Marans156,Marans,3,687,2890,Brown,45.01,122,1,10,Continental,Blue Copper
+778,Marans156,Marans,4,687,2890,Brown,45.01,122,1,10,Continental,Blue Copper
+779,Marans156,Marans,5,687,2890,Brown,45.01,122,1,10,Continental,Blue Copper
+780,Marans157,Marans,1,488,1880,Brown,46.43,128,1,7,Continental,Splash Copper
+781,Marans157,Marans,2,488,1880,Brown,46.43,128,1,7,Continental,Splash Copper
+782,Marans157,Marans,3,488,1880,Brown,46.43,128,1,7,Continental,Splash Copper
+783,Marans157,Marans,4,488,1880,Brown,46.43,128,1,7,Continental,Splash Copper
+784,Marans157,Marans,5,488,1880,Brown,46.43,128,1,7,Continental,Splash Copper
+785,Marans158,Marans,1,547,2650,Brown,53.24,113,1,10,Continental,Blue Copper
+786,Marans158,Marans,2,547,2650,Brown,53.24,113,1,10,Continental,Blue Copper
+787,Marans158,Marans,3,547,2650,Brown,53.24,113,1,10,Continental,Blue Copper
+788,Marans158,Marans,4,547,2650,Brown,53.24,113,1,10,Continental,Blue Copper
+789,Marans158,Marans,5,547,2650,Brown,53.24,113,1,10,Continental,Blue Copper
+790,Marans159,Marans,1,576,2820,Brown,51.83,107,1,10,Continental,Blue Copper
+791,Marans159,Marans,2,576,2820,Brown,51.83,107,1,10,Continental,Blue Copper
+792,Marans159,Marans,3,576,2820,Brown,51.83,107,1,10,Continental,Blue Copper
+793,Marans159,Marans,4,576,2820,Brown,51.83,107,1,10,Continental,Blue Copper
+794,Marans159,Marans,5,576,2820,Brown,51.83,107,1,10,Continental,Blue Copper
+795,Marans160,Marans,1,799,2960,Brown,50.0,124,1,7,Continental,Splash
+796,Marans160,Marans,2,799,2960,Brown,50.0,124,1,7,Continental,Splash
+797,Marans160,Marans,3,799,2960,Brown,50.0,124,1,7,Continental,Splash
+798,Marans160,Marans,4,799,2960,Brown,50.0,124,1,7,Continental,Splash
+799,Marans160,Marans,5,799,2960,Brown,50.0,124,1,7,Continental,Splash
+800,Marans161,Marans,1,161,1840,Brown,50.72,117,1,7,Continental,Blue Copper
+801,Marans161,Marans,2,161,1840,Brown,50.72,117,1,7,Continental,Blue Copper
+802,Marans161,Marans,3,161,1840,Brown,50.72,117,1,7,Continental,Blue Copper
+803,Marans161,Marans,4,161,1840,Brown,50.72,117,1,7,Continental,Blue Copper
+804,Marans161,Marans,5,161,1840,Brown,50.72,117,1,7,Continental,Blue Copper
+805,Marans162,Marans,1,854,2920,Brown,36.92,127,1,10,Continental,Splash
+806,Marans162,Marans,2,854,2920,Brown,36.92,127,1,10,Continental,Splash
+807,Marans162,Marans,3,854,2920,Brown,36.92,127,1,10,Continental,Splash
+808,Marans162,Marans,4,854,2920,Brown,36.92,127,1,10,Continental,Splash
+809,Marans162,Marans,5,854,2920,Brown,36.92,127,1,10,Continental,Splash
+810,Marans163,Marans,1,135,2690,Brown,40.29,108,1,10,Continental,Blue
+811,Marans163,Marans,2,135,2690,Brown,40.29,108,1,10,Continental,Blue
+812,Marans163,Marans,3,135,2690,Brown,40.29,108,1,10,Continental,Blue
+813,Marans163,Marans,4,135,2690,Brown,40.29,108,1,10,Continental,Blue
+814,Marans163,Marans,5,135,2690,Brown,40.29,108,1,10,Continental,Blue
+815,Marans164,Marans,1,893,2070,Brown,54.09,125,1,8,Continental,Splash
+816,Marans164,Marans,2,893,2070,Brown,54.09,125,1,8,Continental,Splash
+817,Marans164,Marans,3,893,2070,Brown,54.09,125,1,8,Continental,Splash
+818,Marans164,Marans,4,893,2070,Brown,54.09,125,1,8,Continental,Splash
+819,Marans164,Marans,5,893,2070,Brown,54.09,125,1,8,Continental,Splash
+820,Marans165,Marans,1,700,2220,Brown,44.72,118,1,7,Continental,Blue Copper
+821,Marans165,Marans,2,700,2220,Brown,44.72,118,1,7,Continental,Blue Copper
+822,Marans165,Marans,3,700,2220,Brown,44.72,118,1,7,Continental,Blue Copper
+823,Marans165,Marans,4,700,2220,Brown,44.72,118,1,7,Continental,Blue Copper
+824,Marans165,Marans,5,700,2220,Brown,44.72,118,1,7,Continental,Blue Copper
+825,Marans166,Marans,1,143,2200,Brown,50.24,121,1,8,Continental,Blue Copper
+826,Marans166,Marans,2,143,2200,Brown,50.24,121,1,8,Continental,Blue Copper
+827,Marans166,Marans,3,143,2200,Brown,50.24,121,1,8,Continental,Blue Copper
+828,Marans166,Marans,4,143,2200,Brown,50.24,121,1,8,Continental,Blue Copper
+829,Marans166,Marans,5,143,2200,Brown,50.24,121,1,8,Continental,Blue Copper
+830,Marans167,Marans,1,107,1530,Brown,43.06,105,1,10,Continental,Blue Copper
+831,Marans167,Marans,2,107,1530,Brown,43.06,105,1,10,Continental,Blue Copper
+832,Marans167,Marans,3,107,1530,Brown,43.06,105,1,10,Continental,Blue Copper
+833,Marans167,Marans,4,107,1530,Brown,43.06,105,1,10,Continental,Blue Copper
+834,Marans167,Marans,5,107,1530,Brown,43.06,105,1,10,Continental,Blue Copper
+835,Marans168,Marans,1,266,2040,Brown,47.8,108,1,9,Continental,Splash Copper
+836,Marans168,Marans,2,266,2040,Brown,47.8,108,1,9,Continental,Splash Copper
+837,Marans168,Marans,3,266,2040,Brown,47.8,108,1,9,Continental,Splash Copper
+838,Marans168,Marans,4,266,2040,Brown,47.8,108,1,9,Continental,Splash Copper
+839,Marans168,Marans,5,266,2040,Brown,47.8,108,1,9,Continental,Splash Copper
+840,Marans169,Marans,1,554,2970,Brown,43.69,114,1,10,Continental,Blue Copper
+841,Marans169,Marans,2,554,2970,Brown,43.69,114,1,10,Continental,Blue Copper
+842,Marans169,Marans,3,554,2970,Brown,43.69,114,1,10,Continental,Blue Copper
+843,Marans169,Marans,4,554,2970,Brown,43.69,114,1,10,Continental,Blue Copper
+844,Marans169,Marans,5,554,2970,Brown,43.69,114,1,10,Continental,Blue Copper
+845,Marans170,Marans,1,467,2660,Brown,39.72,117,1,10,Continental,Splash
+846,Marans170,Marans,2,467,2660,Brown,39.72,117,1,10,Continental,Splash
+847,Marans170,Marans,3,467,2660,Brown,39.72,117,1,10,Continental,Splash
+848,Marans170,Marans,4,467,2660,Brown,39.72,117,1,10,Continental,Splash
+849,Marans170,Marans,5,467,2660,Brown,39.72,117,1,10,Continental,Splash
+850,Marans171,Marans,1,705,1740,Brown,43.18,110,1,8,Continental,Blue
+851,Marans171,Marans,2,705,1740,Brown,43.18,110,1,8,Continental,Blue
+852,Marans171,Marans,3,705,1740,Brown,43.18,110,1,8,Continental,Blue
+853,Marans171,Marans,4,705,1740,Brown,43.18,110,1,8,Continental,Blue
+854,Marans171,Marans,5,705,1740,Brown,43.18,110,1,8,Continental,Blue
+855,Marans172,Marans,1,987,2690,Brown,53.03,119,0,7,Continental,Splash
+856,Marans172,Marans,2,987,2690,Brown,53.03,119,0,7,Continental,Splash
+857,Marans172,Marans,3,987,2690,Brown,53.03,119,0,7,Continental,Splash
+858,Marans172,Marans,4,987,2690,Brown,53.03,119,0,7,Continental,Splash
+859,Marans172,Marans,5,987,2690,Brown,53.03,119,0,7,Continental,Splash
+860,Marans173,Marans,1,556,1650,Brown,41.84,115,1,8,Continental,Splash Copper
+861,Marans173,Marans,2,556,1650,Brown,41.84,115,1,8,Continental,Splash Copper
+862,Marans173,Marans,3,556,1650,Brown,41.84,115,1,8,Continental,Splash Copper
+863,Marans173,Marans,4,556,1650,Brown,41.84,115,1,8,Continental,Splash Copper
+864,Marans173,Marans,5,556,1650,Brown,41.84,115,1,8,Continental,Splash Copper
+865,Marans174,Marans,1,694,1760,Brown,51.94,106,1,10,Continental,Blue Copper
+866,Marans174,Marans,2,694,1760,Brown,51.94,106,1,10,Continental,Blue Copper
+867,Marans174,Marans,3,694,1760,Brown,51.94,106,1,10,Continental,Blue Copper
+868,Marans174,Marans,4,694,1760,Brown,51.94,106,1,10,Continental,Blue Copper
+869,Marans174,Marans,5,694,1760,Brown,51.94,106,1,10,Continental,Blue Copper
+870,Marans175,Marans,1,589,2950,Brown,38.86,108,1,8,Continental,Splash Copper
+871,Marans175,Marans,2,589,2950,Brown,38.86,108,1,8,Continental,Splash Copper
+872,Marans175,Marans,3,589,2950,Brown,38.86,108,1,8,Continental,Splash Copper
+873,Marans175,Marans,4,589,2950,Brown,38.86,108,1,8,Continental,Splash Copper
+874,Marans175,Marans,5,589,2950,Brown,38.86,108,1,8,Continental,Splash Copper
+875,Marans176,Marans,1,858,1530,Brown,54.98,128,1,9,Continental,Splash
+876,Marans176,Marans,2,858,1530,Brown,54.98,128,1,9,Continental,Splash
+877,Marans176,Marans,3,858,1530,Brown,54.98,128,1,9,Continental,Splash
+878,Marans176,Marans,4,858,1530,Brown,54.98,128,1,9,Continental,Splash
+879,Marans176,Marans,5,858,1530,Brown,54.98,128,1,9,Continental,Splash
+880,Marans177,Marans,1,316,2320,Brown,31.91,117,1,10,Continental,Splash
+881,Marans177,Marans,2,316,2320,Brown,31.91,117,1,10,Continental,Splash
+882,Marans177,Marans,3,316,2320,Brown,31.91,117,1,10,Continental,Splash
+883,Marans177,Marans,4,316,2320,Brown,31.91,117,1,10,Continental,Splash
+884,Marans177,Marans,5,316,2320,Brown,31.91,117,1,10,Continental,Splash
+885,Marans178,Marans,1,795,1950,Brown,36.56,116,1,8,Continental,Splash
+886,Marans178,Marans,2,795,1950,Brown,36.56,116,1,8,Continental,Splash
+887,Marans178,Marans,3,795,1950,Brown,36.56,116,1,8,Continental,Splash
+888,Marans178,Marans,4,795,1950,Brown,36.56,116,1,8,Continental,Splash
+889,Marans178,Marans,5,795,1950,Brown,36.56,116,1,8,Continental,Splash
+890,Marans179,Marans,1,844,2710,Brown,34.86,117,1,8,Continental,Splash
+891,Marans179,Marans,2,844,2710,Brown,34.86,117,1,8,Continental,Splash
+892,Marans179,Marans,3,844,2710,Brown,34.86,117,1,8,Continental,Splash
+893,Marans179,Marans,4,844,2710,Brown,34.86,117,1,8,Continental,Splash
+894,Marans179,Marans,5,844,2710,Brown,34.86,117,1,8,Continental,Splash
+895,Ameraucana1,Ameraucana,1,514,1740,Light Blue,47.12,114,1,6,,Black
+896,Ameraucana1,Ameraucana,2,514,1740,Light Blue,47.12,114,1,6,,Black
+897,Ameraucana1,Ameraucana,3,514,1740,Light Blue,47.12,114,1,6,,Black
+898,Ameraucana1,Ameraucana,4,514,1740,Light Blue,47.12,114,1,6,,Black
+899,Ameraucana1,Ameraucana,5,514,1740,Light Blue,47.12,114,1,6,,Black
+900,Ameraucana1,Ameraucana,6,514,1740,Light Blue,47.12,114,1,6,,Black
+901,Ameraucana1,Ameraucana,7,514,1740,Light Blue,47.12,114,1,6,,Black
+902,Ameraucana1,Ameraucana,8,514,1740,Light Blue,47.12,114,1,6,,Black
+903,Ameraucana1,Ameraucana,9,514,1740,Light Blue,47.12,114,1,6,,Black
+904,Ameraucana1,Ameraucana,10,514,1740,Light Blue,47.12,114,1,6,,Black
+905,Ameraucana2,Ameraucana,1,727,2140,Bluish-Green,44.82,117,1,11,,Blue Wheaten
+906,Ameraucana2,Ameraucana,2,727,2140,Bluish-Green,44.82,117,1,11,,Blue Wheaten
+907,Ameraucana2,Ameraucana,3,727,2140,Bluish-Green,44.82,117,1,11,,Blue Wheaten
+908,Ameraucana2,Ameraucana,4,727,2140,Bluish-Green,44.82,117,1,11,,Blue Wheaten
+909,Ameraucana2,Ameraucana,5,727,2140,Bluish-Green,44.82,117,1,11,,Blue Wheaten
+910,Ameraucana2,Ameraucana,6,727,2140,Bluish-Green,44.82,117,1,11,,Blue Wheaten
+911,Ameraucana2,Ameraucana,7,727,2140,Bluish-Green,44.82,117,1,11,,Blue Wheaten
+912,Ameraucana2,Ameraucana,8,727,2140,Bluish-Green,44.82,117,1,11,,Blue Wheaten
+913,Ameraucana2,Ameraucana,9,727,2140,Bluish-Green,44.82,117,1,11,,Blue Wheaten
+914,Ameraucana2,Ameraucana,10,727,2140,Bluish-Green,44.82,117,1,11,,Blue Wheaten
+915,Ameraucana3,Ameraucana,1,208,2080,Bluish-Green,49.51,113,1,11,,White
+916,Ameraucana3,Ameraucana,2,208,2080,Bluish-Green,49.51,113,1,11,,White
+917,Ameraucana3,Ameraucana,3,208,2080,Bluish-Green,49.51,113,1,11,,White
+918,Ameraucana3,Ameraucana,4,208,2080,Bluish-Green,49.51,113,1,11,,White
+919,Ameraucana3,Ameraucana,5,208,2080,Bluish-Green,49.51,113,1,11,,White
+920,Ameraucana3,Ameraucana,6,208,2080,Bluish-Green,49.51,113,1,11,,White
+921,Ameraucana3,Ameraucana,7,208,2080,Bluish-Green,49.51,113,1,11,,White
+922,Ameraucana3,Ameraucana,8,208,2080,Bluish-Green,49.51,113,1,11,,White
+923,Ameraucana3,Ameraucana,9,208,2080,Bluish-Green,49.51,113,1,11,,White
+924,Ameraucana3,Ameraucana,10,208,2080,Bluish-Green,49.51,113,1,11,,White
+925,Ameraucana4,Ameraucana,1,439,1960,Bluish-Green,51.37,109,1,5,,Black
+926,Ameraucana4,Ameraucana,2,439,1960,Bluish-Green,51.37,109,1,5,,Black
+927,Ameraucana4,Ameraucana,3,439,1960,Bluish-Green,51.37,109,1,5,,Black
+928,Ameraucana4,Ameraucana,4,439,1960,Bluish-Green,51.37,109,1,5,,Black
+929,Ameraucana4,Ameraucana,5,439,1960,Bluish-Green,51.37,109,1,5,,Black
+930,Ameraucana4,Ameraucana,6,439,1960,Bluish-Green,51.37,109,1,5,,Black
+931,Ameraucana4,Ameraucana,7,439,1960,Bluish-Green,51.37,109,1,5,,Black
+932,Ameraucana4,Ameraucana,8,439,1960,Bluish-Green,51.37,109,1,5,,Black
+933,Ameraucana4,Ameraucana,9,439,1960,Bluish-Green,51.37,109,1,5,,Black
+934,Ameraucana4,Ameraucana,10,439,1960,Bluish-Green,51.37,109,1,5,,Black
+935,Ameraucana5,Ameraucana,1,936,1880,Light Blue,51.36,100,1,11,,Silver
+936,Ameraucana5,Ameraucana,2,936,1880,Light Blue,51.36,100,1,11,,Silver
+937,Ameraucana5,Ameraucana,3,936,1880,Light Blue,51.36,100,1,11,,Silver
+938,Ameraucana5,Ameraucana,4,936,1880,Light Blue,51.36,100,1,11,,Silver
+939,Ameraucana5,Ameraucana,5,936,1880,Light Blue,51.36,100,1,11,,Silver
+940,Ameraucana5,Ameraucana,6,936,1880,Light Blue,51.36,100,1,11,,Silver
+941,Ameraucana5,Ameraucana,7,936,1880,Light Blue,51.36,100,1,11,,Silver
+942,Ameraucana5,Ameraucana,8,936,1880,Light Blue,51.36,100,1,11,,Silver
+943,Ameraucana5,Ameraucana,9,936,1880,Light Blue,51.36,100,1,11,,Silver
+944,Ameraucana5,Ameraucana,10,936,1880,Light Blue,51.36,100,1,11,,Silver
+945,Ameraucana6,Ameraucana,1,204,1780,Bluish-Green,58.51,105,1,7,,Buff
+946,Ameraucana6,Ameraucana,2,204,1780,Bluish-Green,58.51,105,1,7,,Buff
+947,Ameraucana6,Ameraucana,3,204,1780,Bluish-Green,58.51,105,1,7,,Buff
+948,Ameraucana6,Ameraucana,4,204,1780,Bluish-Green,58.51,105,1,7,,Buff
+949,Ameraucana6,Ameraucana,5,204,1780,Bluish-Green,58.51,105,1,7,,Buff
+950,Ameraucana6,Ameraucana,6,204,1780,Bluish-Green,58.51,105,1,7,,Buff
+951,Ameraucana6,Ameraucana,7,204,1780,Bluish-Green,58.51,105,1,7,,Buff
+952,Ameraucana6,Ameraucana,8,204,1780,Bluish-Green,58.51,105,1,7,,Buff
+953,Ameraucana6,Ameraucana,9,204,1780,Bluish-Green,58.51,105,1,7,,Buff
+954,Ameraucana6,Ameraucana,10,204,1780,Bluish-Green,58.51,105,1,7,,Buff
+955,Ameraucana7,Ameraucana,1,177,1720,Bluish-Green,42.94,116,1,6,,Brown Red
+956,Ameraucana7,Ameraucana,2,177,1720,Bluish-Green,42.94,116,1,6,,Brown Red
+957,Ameraucana7,Ameraucana,3,177,1720,Bluish-Green,42.94,116,1,6,,Brown Red
+958,Ameraucana7,Ameraucana,4,177,1720,Bluish-Green,42.94,116,1,6,,Brown Red
+959,Ameraucana7,Ameraucana,5,177,1720,Bluish-Green,42.94,116,1,6,,Brown Red
+960,Ameraucana7,Ameraucana,6,177,1720,Bluish-Green,42.94,116,1,6,,Brown Red
+961,Ameraucana7,Ameraucana,7,177,1720,Bluish-Green,42.94,116,1,6,,Brown Red
+962,Ameraucana7,Ameraucana,8,177,1720,Bluish-Green,42.94,116,1,6,,Brown Red
+963,Ameraucana7,Ameraucana,9,177,1720,Bluish-Green,42.94,116,1,6,,Brown Red
+964,Ameraucana7,Ameraucana,10,177,1720,Bluish-Green,42.94,116,1,6,,Brown Red
+965,Ameraucana8,Ameraucana,1,469,2370,Light Blue,50.08,117,1,6,,Brown Red
+966,Ameraucana8,Ameraucana,2,469,2370,Light Blue,50.08,117,1,6,,Brown Red
+967,Ameraucana8,Ameraucana,3,469,2370,Light Blue,50.08,117,1,6,,Brown Red
+968,Ameraucana8,Ameraucana,4,469,2370,Light Blue,50.08,117,1,6,,Brown Red
+969,Ameraucana8,Ameraucana,5,469,2370,Light Blue,50.08,117,1,6,,Brown Red
+970,Ameraucana8,Ameraucana,6,469,2370,Light Blue,50.08,117,1,6,,Brown Red
+971,Ameraucana8,Ameraucana,7,469,2370,Light Blue,50.08,117,1,6,,Brown Red
+972,Ameraucana8,Ameraucana,8,469,2370,Light Blue,50.08,117,1,6,,Brown Red
+973,Ameraucana8,Ameraucana,9,469,2370,Light Blue,50.08,117,1,6,,Brown Red
+974,Ameraucana8,Ameraucana,10,469,2370,Light Blue,50.08,117,1,6,,Brown Red
+975,Ameraucana9,Ameraucana,1,684,1820,Light Blue,58.93,112,1,6,,Blue Wheaten
+976,Ameraucana9,Ameraucana,2,684,1820,Light Blue,58.93,112,1,6,,Blue Wheaten
+977,Ameraucana9,Ameraucana,3,684,1820,Light Blue,58.93,112,1,6,,Blue Wheaten
+978,Ameraucana9,Ameraucana,4,684,1820,Light Blue,58.93,112,1,6,,Blue Wheaten
+979,Ameraucana9,Ameraucana,5,684,1820,Light Blue,58.93,112,1,6,,Blue Wheaten
+980,Ameraucana9,Ameraucana,6,684,1820,Light Blue,58.93,112,1,6,,Blue Wheaten
+981,Ameraucana9,Ameraucana,7,684,1820,Light Blue,58.93,112,1,6,,Blue Wheaten
+982,Ameraucana9,Ameraucana,8,684,1820,Light Blue,58.93,112,1,6,,Blue Wheaten
+983,Ameraucana9,Ameraucana,9,684,1820,Light Blue,58.93,112,1,6,,Blue Wheaten
+984,Ameraucana9,Ameraucana,10,684,1820,Light Blue,58.93,112,1,6,,Blue Wheaten
+985,Ameraucana10,Ameraucana,1,901,2100,Light Blue,52.24,109,1,7,,Buff
+986,Ameraucana10,Ameraucana,2,901,2100,Light Blue,52.24,109,1,7,,Buff
+987,Ameraucana10,Ameraucana,3,901,2100,Light Blue,52.24,109,1,7,,Buff
+988,Ameraucana10,Ameraucana,4,901,2100,Light Blue,52.24,109,1,7,,Buff
+989,Ameraucana10,Ameraucana,5,901,2100,Light Blue,52.24,109,1,7,,Buff
+990,Ameraucana10,Ameraucana,6,901,2100,Light Blue,52.24,109,1,7,,Buff
+991,Ameraucana10,Ameraucana,7,901,2100,Light Blue,52.24,109,1,7,,Buff
+992,Ameraucana10,Ameraucana,8,901,2100,Light Blue,52.24,109,1,7,,Buff
+993,Ameraucana10,Ameraucana,9,901,2100,Light Blue,52.24,109,1,7,,Buff
+994,Ameraucana10,Ameraucana,10,901,2100,Light Blue,52.24,109,1,7,,Buff
+995,Ameraucana11,Ameraucana,1,384,1800,Bluish-Green,53.1,110,1,7,,Blue Wheaten
+996,Ameraucana11,Ameraucana,2,384,1800,Bluish-Green,53.1,110,1,7,,Blue Wheaten
+997,Ameraucana11,Ameraucana,3,384,1800,Bluish-Green,53.1,110,1,7,,Blue Wheaten
+998,Ameraucana11,Ameraucana,4,384,1800,Bluish-Green,53.1,110,1,7,,Blue Wheaten
+999,Ameraucana11,Ameraucana,5,384,1800,Bluish-Green,53.1,110,1,7,,Blue Wheaten
