@@ -41,4 +41,5 @@ def run_ml() :
         y_pred = regressor.predict(new_data)
         y_pred = scaler_y.inverse_transform(y_pred)
 
-        st.write('이 달걀 무게는'  + str(y_pred) + 'gram 입니다.')
+        y_pred = round(y_pred[0,0])
+        st.write('이 달걀 무게는'  + str(y_pred) + 'g 입니다.')
