@@ -19,9 +19,9 @@ def run_ml() :
     else :
         variety = 1
 
-    age = st.number_input('닭 나이',0,5000)
-    weigth = st.number_input('닭 무게',0,10000)
-    Feed   = st.number_input('사료 양',0,1000)
+    age = st.number_input('닭 나이(days)',0,5000)
+    weigth = st.number_input('닭 무게(g)',0,10000)
+    Feed   = st.number_input('사료 양'(g),0,1000)
 
     PerDay = st.radio('하루에 알을 낳는가?.',['Yes','No'])
     if PerDay == 'Marans' :
@@ -29,7 +29,7 @@ def run_ml() :
     else :
         PerDay = 1
 
-    SunLight = st.number_input('햇빛 노출 시간',0,24)
+    SunLight = st.number_input('햇빛 노출 시간'(h),0,24)
 
     if st.button('달걀 무게 예측'):
 

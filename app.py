@@ -6,7 +6,7 @@ from app_ml import run_ml
 
 
 def main():
-    st.title('닭의 조건에 따라 확인하는 앱입니다.')
+    st.title('닭의 조건에 따라 달갈 무게를 확인하는 앱입니다.')
 
 
     menu = ['MAIN','EDA','ML']
